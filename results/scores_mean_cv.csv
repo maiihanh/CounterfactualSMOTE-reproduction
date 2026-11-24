@@ -1,0 +1,1681 @@
+dataset,pct,method,classifier,f1
+arcene,0.1,ADASYN,DT,0.11555555555555556
+arcene,0.1,ADASYN,GNB,0.0
+arcene,0.1,ADASYN,KNN,0.30603174603174604
+arcene,0.1,ADASYN,LR,0.15555555555555553
+arcene,0.1,ADASYN,MLP,0.06666666666666667
+arcene,0.1,ADASYN,RF,0.13333333333333333
+arcene,0.1,ADASYN,XGBoost,0.044444444444444446
+arcene,0.1,Borderline SMOTE 1,DT,0.12111111111111111
+arcene,0.1,Borderline SMOTE 1,GNB,0.0
+arcene,0.1,Borderline SMOTE 1,KNN,0.31206349206349204
+arcene,0.1,Borderline SMOTE 1,LR,0.19999999999999996
+arcene,0.1,Borderline SMOTE 1,MLP,0.06666666666666667
+arcene,0.1,Borderline SMOTE 1,RF,0.13333333333333333
+arcene,0.1,Borderline SMOTE 1,XGBoost,0.10000000000000002
+arcene,0.1,Borderline SMOTE 2,DT,0.30518518518518517
+arcene,0.1,Borderline SMOTE 2,GNB,0.0
+arcene,0.1,Borderline SMOTE 2,KNN,0.3290476190476191
+arcene,0.1,Borderline SMOTE 2,LR,0.24444444444444444
+arcene,0.1,Borderline SMOTE 2,MLP,0.15555555555555553
+arcene,0.1,Borderline SMOTE 2,RF,0.18888888888888888
+arcene,0.1,Borderline SMOTE 2,XGBoost,0.26666666666666666
+arcene,0.1,Counterfactual SMOTE,DT,0.33
+arcene,0.1,Counterfactual SMOTE,GNB,0.0
+arcene,0.1,Counterfactual SMOTE,KNN,0.3523809523809524
+arcene,0.1,Counterfactual SMOTE,LR,0.47333333333333333
+arcene,0.1,Counterfactual SMOTE,MLP,0.31587301587301586
+arcene,0.1,Counterfactual SMOTE,RF,0.1111111111111111
+arcene,0.1,Counterfactual SMOTE,XGBoost,0.0
+arcene,0.1,Counterfactual SMOTE (fixed),DT,0.3311111111111111
+arcene,0.1,Counterfactual SMOTE (fixed),GNB,0.04888888888888889
+arcene,0.1,Counterfactual SMOTE (fixed),KNN,0.34799853741030207
+arcene,0.1,Counterfactual SMOTE (fixed),LR,0.5006349206349207
+arcene,0.1,Counterfactual SMOTE (fixed),MLP,0.34078377762588286
+arcene,0.1,Counterfactual SMOTE (fixed),RF,0.17777777777777778
+arcene,0.1,Counterfactual SMOTE (fixed),XGBoost,0.044444444444444446
+arcene,0.1,K-means SMOTE,DT,0.06
+arcene,0.1,K-means SMOTE,GNB,0.0
+arcene,0.1,K-means SMOTE,KNN,0.0
+arcene,0.1,K-means SMOTE,LR,0.06666666666666667
+arcene,0.1,K-means SMOTE,MLP,0.0
+arcene,0.1,K-means SMOTE,RF,0.0
+arcene,0.1,K-means SMOTE,XGBoost,0.0
+arcene,0.1,None,DT,0.06
+arcene,0.1,None,GNB,0.0
+arcene,0.1,None,KNN,0.0
+arcene,0.1,None,LR,0.06666666666666667
+arcene,0.1,None,MLP,0.0
+arcene,0.1,None,RF,0.0
+arcene,0.1,None,XGBoost,0.0
+arcene,0.1,Random oversampling,DT,0.07777777777777778
+arcene,0.1,Random oversampling,GNB,0.0
+arcene,0.1,Random oversampling,KNN,0.3277777777777778
+arcene,0.1,Random oversampling,LR,0.15555555555555553
+arcene,0.1,Random oversampling,MLP,0.06666666666666667
+arcene,0.1,Random oversampling,RF,0.0
+arcene,0.1,Random oversampling,XGBoost,0.0
+arcene,0.1,Random undersampling,DT,0.14882825751246806
+arcene,0.1,Random undersampling,GNB,0.1844741532976827
+arcene,0.1,Random undersampling,KNN,0.19288900355463823
+arcene,0.1,Random undersampling,LR,0.23571462822236813
+arcene,0.1,Random undersampling,MLP,0.21605036289246815
+arcene,0.1,Random undersampling,RF,0.25284356166709104
+arcene,0.1,Random undersampling,XGBoost,0.18393411788552452
+arcene,0.1,SMOTE,DT,0.07777777777777778
+arcene,0.1,SMOTE,GNB,0.0
+arcene,0.1,SMOTE,KNN,0.30444925444925447
+arcene,0.1,SMOTE,LR,0.19999999999999996
+arcene,0.1,SMOTE,MLP,0.06666666666666667
+arcene,0.1,SMOTE,RF,0.06666666666666667
+arcene,0.1,SMOTE,XGBoost,0.044444444444444446
+arcene,0.25,ADASYN,DT,0.3861982461982462
+arcene,0.25,ADASYN,GNB,0.07238095238095238
+arcene,0.25,ADASYN,KNN,0.4879135999879034
+arcene,0.25,ADASYN,LR,0.5491005291005291
+arcene,0.25,ADASYN,MLP,0.3746560846560847
+arcene,0.25,ADASYN,RF,0.3868783068783069
+arcene,0.25,ADASYN,XGBoost,0.3156084656084656
+arcene,0.25,Borderline SMOTE 1,DT,0.46718614718614715
+arcene,0.25,Borderline SMOTE 1,GNB,0.07238095238095238
+arcene,0.25,Borderline SMOTE 1,KNN,0.5143363459152933
+arcene,0.25,Borderline SMOTE 1,LR,0.5721164021164021
+arcene,0.25,Borderline SMOTE 1,MLP,0.44343915343915347
+arcene,0.25,Borderline SMOTE 1,RF,0.47444444444444445
+arcene,0.25,Borderline SMOTE 1,XGBoost,0.3898941798941798
+arcene,0.25,Borderline SMOTE 2,DT,0.521031931031931
+arcene,0.25,Borderline SMOTE 2,GNB,0.1226984126984127
+arcene,0.25,Borderline SMOTE 2,KNN,0.5146839612629087
+arcene,0.25,Borderline SMOTE 2,LR,0.666055796055796
+arcene,0.25,Borderline SMOTE 2,MLP,0.49804232804232806
+arcene,0.25,Borderline SMOTE 2,RF,0.5383068783068783
+arcene,0.25,Borderline SMOTE 2,XGBoost,0.4771957671957672
+arcene,0.25,Counterfactual SMOTE,DT,0.5558127058127059
+arcene,0.25,Counterfactual SMOTE,GNB,0.2663825063825063
+arcene,0.25,Counterfactual SMOTE,KNN,0.6001827801827802
+arcene,0.25,Counterfactual SMOTE,LR,0.7002645502645501
+arcene,0.25,Counterfactual SMOTE,MLP,0.6285917785917786
+arcene,0.25,Counterfactual SMOTE,RF,0.5504761904761905
+arcene,0.25,Counterfactual SMOTE,XGBoost,0.4951851851851852
+arcene,0.25,Counterfactual SMOTE (fixed),DT,0.5336574536574537
+arcene,0.25,Counterfactual SMOTE (fixed),GNB,0.23197950197950198
+arcene,0.25,Counterfactual SMOTE (fixed),KNN,0.5613778813778815
+arcene,0.25,Counterfactual SMOTE (fixed),LR,0.69002035002035
+arcene,0.25,Counterfactual SMOTE (fixed),MLP,0.6416220816220816
+arcene,0.25,Counterfactual SMOTE (fixed),RF,0.5904761904761905
+arcene,0.25,Counterfactual SMOTE (fixed),XGBoost,0.5045598845598845
+arcene,0.25,K-means SMOTE,DT,0.4076763976763977
+arcene,0.25,K-means SMOTE,GNB,0.07238095238095238
+arcene,0.25,K-means SMOTE,KNN,0.4060911637382225
+arcene,0.25,K-means SMOTE,LR,0.4441269841269841
+arcene,0.25,K-means SMOTE,MLP,0.3058730158730159
+arcene,0.25,K-means SMOTE,RF,0.2715873015873016
+arcene,0.25,K-means SMOTE,XGBoost,0.3422222222222222
+arcene,0.25,None,DT,0.3314285714285714
+arcene,0.25,None,GNB,0.07238095238095238
+arcene,0.25,None,KNN,0.3133333333333333
+arcene,0.25,None,LR,0.31523809523809526
+arcene,0.25,None,MLP,0.23031746031746034
+arcene,0.25,None,RF,0.19174603174603175
+arcene,0.25,None,XGBoost,0.299047619047619
+arcene,0.25,Random oversampling,DT,0.4178114478114478
+arcene,0.25,Random oversampling,GNB,0.07238095238095238
+arcene,0.25,Random oversampling,KNN,0.6041786283891547
+arcene,0.25,Random oversampling,LR,0.5154497354497355
+arcene,0.25,Random oversampling,MLP,0.3289417989417989
+arcene,0.25,Random oversampling,RF,0.41539682539682543
+arcene,0.25,Random oversampling,XGBoost,0.3645502645502645
+arcene,0.25,Random undersampling,DT,0.36106959997322097
+arcene,0.25,Random undersampling,GNB,0.22817656200009143
+arcene,0.25,Random undersampling,KNN,0.45404741113719443
+arcene,0.25,Random undersampling,LR,0.4863718737402947
+arcene,0.25,Random undersampling,MLP,0.4601709401709402
+arcene,0.25,Random undersampling,RF,0.48625205547806166
+arcene,0.25,Random undersampling,XGBoost,0.3724298680335832
+arcene,0.25,SMOTE,DT,0.40612276612276615
+arcene,0.25,SMOTE,GNB,0.07238095238095238
+arcene,0.25,SMOTE,KNN,0.514520693158464
+arcene,0.25,SMOTE,LR,0.5562433862433863
+arcene,0.25,SMOTE,MLP,0.431005291005291
+arcene,0.25,SMOTE,RF,0.4474603174603174
+arcene,0.25,SMOTE,XGBoost,0.37693121693121695
+arcene,0.5,ADASYN,DT,0.536651422143413
+arcene,0.5,ADASYN,GNB,0.19705244646421116
+arcene,0.5,ADASYN,KNN,0.6429781936880815
+arcene,0.5,ADASYN,LR,0.7672864791440643
+arcene,0.5,ADASYN,MLP,0.6371948221483825
+arcene,0.5,ADASYN,RF,0.6749154308597033
+arcene,0.5,ADASYN,XGBoost,0.5956596138639482
+arcene,0.5,Borderline SMOTE 1,DT,0.5368576998050681
+arcene,0.5,Borderline SMOTE 1,GNB,0.1977850471968119
+arcene,0.5,Borderline SMOTE 1,KNN,0.6605300631509632
+arcene,0.5,Borderline SMOTE 1,LR,0.7712444068945618
+arcene,0.5,Borderline SMOTE 1,MLP,0.6492089827383946
+arcene,0.5,Borderline SMOTE 1,RF,0.6756111621436699
+arcene,0.5,Borderline SMOTE 1,XGBoost,0.5927651479354266
+arcene,0.5,Borderline SMOTE 2,DT,0.6106257622666291
+arcene,0.5,Borderline SMOTE 2,GNB,0.263128175573996
+arcene,0.5,Borderline SMOTE 2,KNN,0.6584069677833119
+arcene,0.5,Borderline SMOTE 2,LR,0.7833217848542926
+arcene,0.5,Borderline SMOTE 2,MLP,0.7033320480688902
+arcene,0.5,Borderline SMOTE 2,RF,0.7004246286908825
+arcene,0.5,Borderline SMOTE 2,XGBoost,0.6383029217084945
+arcene,0.5,Counterfactual SMOTE,DT,0.6474742113751402
+arcene,0.5,Counterfactual SMOTE,GNB,0.40522582451375017
+arcene,0.5,Counterfactual SMOTE,KNN,0.6893676523493456
+arcene,0.5,Counterfactual SMOTE,LR,0.7884756454415897
+arcene,0.5,Counterfactual SMOTE,MLP,0.7191454235578613
+arcene,0.5,Counterfactual SMOTE,RF,0.726327337952725
+arcene,0.5,Counterfactual SMOTE,XGBoost,0.6890990926285044
+arcene,0.5,Counterfactual SMOTE (fixed),DT,0.6517251950076018
+arcene,0.5,Counterfactual SMOTE (fixed),GNB,0.3694037381034285
+arcene,0.5,Counterfactual SMOTE (fixed),KNN,0.6687090069012266
+arcene,0.5,Counterfactual SMOTE (fixed),LR,0.7551820132625086
+arcene,0.5,Counterfactual SMOTE (fixed),MLP,0.7107601040270309
+arcene,0.5,Counterfactual SMOTE (fixed),RF,0.719383731736673
+arcene,0.5,Counterfactual SMOTE (fixed),XGBoost,0.6770619358854653
+arcene,0.5,K-means SMOTE,DT,0.5992529085408341
+arcene,0.5,K-means SMOTE,GNB,0.20528865470041943
+arcene,0.5,K-means SMOTE,KNN,0.6425671094085416
+arcene,0.5,K-means SMOTE,LR,0.7366507772699723
+arcene,0.5,K-means SMOTE,MLP,0.6418232547179916
+arcene,0.5,K-means SMOTE,RF,0.6153782663844584
+arcene,0.5,K-means SMOTE,XGBoost,0.6512411118293472
+arcene,0.5,None,DT,0.5202562653491446
+arcene,0.5,None,GNB,0.2040765334882982
+arcene,0.5,None,KNN,0.5793057286710538
+arcene,0.5,None,LR,0.6819282242811654
+arcene,0.5,None,MLP,0.529362075832664
+arcene,0.5,None,RF,0.5560137901314373
+arcene,0.5,None,XGBoost,0.624490411549235
+arcene,0.5,Random oversampling,DT,0.5590401321058206
+arcene,0.5,Random oversampling,GNB,0.2040765334882982
+arcene,0.5,Random oversampling,KNN,0.6725461892967614
+arcene,0.5,Random oversampling,LR,0.7355644894034987
+arcene,0.5,Random oversampling,MLP,0.5894594002488739
+arcene,0.5,Random oversampling,RF,0.641735409413428
+arcene,0.5,Random oversampling,XGBoost,0.6144058109073588
+arcene,0.5,Random undersampling,DT,0.5214221975840857
+arcene,0.5,Random undersampling,GNB,0.42408633634819304
+arcene,0.5,Random undersampling,KNN,0.6138963813628061
+arcene,0.5,Random undersampling,LR,0.7219635645211092
+arcene,0.5,Random undersampling,MLP,0.6596907620347293
+arcene,0.5,Random undersampling,RF,0.6407475181823008
+arcene,0.5,Random undersampling,XGBoost,0.6148246557210496
+arcene,0.5,SMOTE,DT,0.5686072206660442
+arcene,0.5,SMOTE,GNB,0.2040765334882982
+arcene,0.5,SMOTE,KNN,0.6505663123594158
+arcene,0.5,SMOTE,LR,0.7558052055730075
+arcene,0.5,SMOTE,MLP,0.6553464921731176
+arcene,0.5,SMOTE,RF,0.6675065869802711
+arcene,0.5,SMOTE,XGBoost,0.6017094017094017
+breast_coimbra,0.1,ADASYN,DT,0.41111111111111104
+breast_coimbra,0.1,ADASYN,GNB,0.19999999999999998
+breast_coimbra,0.1,ADASYN,KNN,0.4282539682539683
+breast_coimbra,0.1,ADASYN,LR,0.2933333333333333
+breast_coimbra,0.1,ADASYN,MLP,0.3755555555555556
+breast_coimbra,0.1,ADASYN,RF,0.28888888888888886
+breast_coimbra,0.1,ADASYN,XGBoost,0.37777777777777777
+breast_coimbra,0.1,Borderline SMOTE 1,DT,0.3999999999999999
+breast_coimbra,0.1,Borderline SMOTE 1,GNB,0.18888888888888888
+breast_coimbra,0.1,Borderline SMOTE 1,KNN,0.3971428571428571
+breast_coimbra,0.1,Borderline SMOTE 1,LR,0.3111111111111111
+breast_coimbra,0.1,Borderline SMOTE 1,MLP,0.32666666666666666
+breast_coimbra,0.1,Borderline SMOTE 1,RF,0.3333333333333333
+breast_coimbra,0.1,Borderline SMOTE 1,XGBoost,0.3933333333333333
+breast_coimbra,0.1,Borderline SMOTE 2,DT,0.36666666666666664
+breast_coimbra,0.1,Borderline SMOTE 2,GNB,0.19111111111111112
+breast_coimbra,0.1,Borderline SMOTE 2,KNN,0.34507936507936504
+breast_coimbra,0.1,Borderline SMOTE 2,LR,0.3055555555555556
+breast_coimbra,0.1,Borderline SMOTE 2,MLP,0.40888888888888886
+breast_coimbra,0.1,Borderline SMOTE 2,RF,0.3
+breast_coimbra,0.1,Borderline SMOTE 2,XGBoost,0.3222222222222222
+breast_coimbra,0.1,Counterfactual SMOTE,DT,0.4533333333333333
+breast_coimbra,0.1,Counterfactual SMOTE,GNB,0.38666666666666666
+breast_coimbra,0.1,Counterfactual SMOTE,KNN,0.5129100529100529
+breast_coimbra,0.1,Counterfactual SMOTE,LR,0.3622222222222222
+breast_coimbra,0.1,Counterfactual SMOTE,MLP,0.43555555555555553
+breast_coimbra,0.1,Counterfactual SMOTE,RF,0.4777777777777777
+breast_coimbra,0.1,Counterfactual SMOTE,XGBoost,0.5333333333333333
+breast_coimbra,0.1,Counterfactual SMOTE (fixed),DT,0.446984126984127
+breast_coimbra,0.1,Counterfactual SMOTE (fixed),GNB,0.3222222222222222
+breast_coimbra,0.1,Counterfactual SMOTE (fixed),KNN,0.4475132275132275
+breast_coimbra,0.1,Counterfactual SMOTE (fixed),LR,0.3234920634920635
+breast_coimbra,0.1,Counterfactual SMOTE (fixed),MLP,0.34380952380952384
+breast_coimbra,0.1,Counterfactual SMOTE (fixed),RF,0.4746031746031745
+breast_coimbra,0.1,Counterfactual SMOTE (fixed),XGBoost,0.4888888888888889
+breast_coimbra,0.1,K-means SMOTE,DT,0.2933333333333333
+breast_coimbra,0.1,K-means SMOTE,GNB,0.07777777777777778
+breast_coimbra,0.1,K-means SMOTE,KNN,0.0
+breast_coimbra,0.1,K-means SMOTE,LR,0.0
+breast_coimbra,0.1,K-means SMOTE,MLP,0.03333333333333333
+breast_coimbra,0.1,K-means SMOTE,RF,0.1111111111111111
+breast_coimbra,0.1,K-means SMOTE,XGBoost,0.2111111111111111
+breast_coimbra,0.1,None,DT,0.2933333333333333
+breast_coimbra,0.1,None,GNB,0.07777777777777778
+breast_coimbra,0.1,None,KNN,0.0
+breast_coimbra,0.1,None,LR,0.0
+breast_coimbra,0.1,None,MLP,0.03333333333333333
+breast_coimbra,0.1,None,RF,0.1111111111111111
+breast_coimbra,0.1,None,XGBoost,0.2111111111111111
+breast_coimbra,0.1,Random oversampling,DT,0.2711111111111111
+breast_coimbra,0.1,Random oversampling,GNB,0.19111111111111112
+breast_coimbra,0.1,Random oversampling,KNN,0.4193650793650794
+breast_coimbra,0.1,Random oversampling,LR,0.26476190476190475
+breast_coimbra,0.1,Random oversampling,MLP,0.38222222222222224
+breast_coimbra,0.1,Random oversampling,RF,0.24444444444444444
+breast_coimbra,0.1,Random oversampling,XGBoost,0.2333333333333333
+breast_coimbra,0.1,Random undersampling,DT,0.35593073593073593
+breast_coimbra,0.1,Random undersampling,GNB,0.2801587301587302
+breast_coimbra,0.1,Random undersampling,KNN,0.15126984126984128
+breast_coimbra,0.1,Random undersampling,LR,0.3325396825396825
+breast_coimbra,0.1,Random undersampling,MLP,0.28132756132756126
+breast_coimbra,0.1,Random undersampling,RF,0.3876767676767677
+breast_coimbra,0.1,Random undersampling,XGBoost,0.29805194805194807
+breast_coimbra,0.1,SMOTE,DT,0.40444444444444444
+breast_coimbra,0.1,SMOTE,GNB,0.18888888888888888
+breast_coimbra,0.1,SMOTE,KNN,0.4349206349206349
+breast_coimbra,0.1,SMOTE,LR,0.2822222222222222
+breast_coimbra,0.1,SMOTE,MLP,0.3088888888888889
+breast_coimbra,0.1,SMOTE,RF,0.2888888888888889
+breast_coimbra,0.1,SMOTE,XGBoost,0.3111111111111111
+breast_coimbra,0.25,ADASYN,DT,0.6019047619047618
+breast_coimbra,0.25,ADASYN,GNB,0.4611111111111111
+breast_coimbra,0.25,ADASYN,KNN,0.5575805675805675
+breast_coimbra,0.25,ADASYN,LR,0.4830891330891331
+breast_coimbra,0.25,ADASYN,MLP,0.5492207792207792
+breast_coimbra,0.25,ADASYN,RF,0.523968253968254
+breast_coimbra,0.25,ADASYN,XGBoost,0.6035642135642135
+breast_coimbra,0.25,Borderline SMOTE 1,DT,0.5939682539682539
+breast_coimbra,0.25,Borderline SMOTE 1,GNB,0.5299999999999999
+breast_coimbra,0.25,Borderline SMOTE 1,KNN,0.5996440596440596
+breast_coimbra,0.25,Borderline SMOTE 1,LR,0.5173160173160173
+breast_coimbra,0.25,Borderline SMOTE 1,MLP,0.5750937950937951
+breast_coimbra,0.25,Borderline SMOTE 1,RF,0.5468253968253968
+breast_coimbra,0.25,Borderline SMOTE 1,XGBoost,0.5717460317460317
+breast_coimbra,0.25,Borderline SMOTE 2,DT,0.5816402116402116
+breast_coimbra,0.25,Borderline SMOTE 2,GNB,0.5363492063492062
+breast_coimbra,0.25,Borderline SMOTE 2,KNN,0.5915873015873016
+breast_coimbra,0.25,Borderline SMOTE 2,LR,0.5210582010582011
+breast_coimbra,0.25,Borderline SMOTE 2,MLP,0.5598556998556998
+breast_coimbra,0.25,Borderline SMOTE 2,RF,0.5322222222222223
+breast_coimbra,0.25,Borderline SMOTE 2,XGBoost,0.5820634920634921
+breast_coimbra,0.25,Counterfactual SMOTE,DT,0.6200529100529101
+breast_coimbra,0.25,Counterfactual SMOTE,GNB,0.5055555555555555
+breast_coimbra,0.25,Counterfactual SMOTE,KNN,0.6420779220779221
+breast_coimbra,0.25,Counterfactual SMOTE,LR,0.4994901394901395
+breast_coimbra,0.25,Counterfactual SMOTE,MLP,0.5931890331890332
+breast_coimbra,0.25,Counterfactual SMOTE,RF,0.6638095238095238
+breast_coimbra,0.25,Counterfactual SMOTE,XGBoost,0.6693121693121693
+breast_coimbra,0.25,Counterfactual SMOTE (fixed),DT,0.6428571428571428
+breast_coimbra,0.25,Counterfactual SMOTE (fixed),GNB,0.4981481481481482
+breast_coimbra,0.25,Counterfactual SMOTE (fixed),KNN,0.6112698412698413
+breast_coimbra,0.25,Counterfactual SMOTE (fixed),LR,0.5045598845598845
+breast_coimbra,0.25,Counterfactual SMOTE (fixed),MLP,0.5649350649350648
+breast_coimbra,0.25,Counterfactual SMOTE (fixed),RF,0.5968927368927369
+breast_coimbra,0.25,Counterfactual SMOTE (fixed),XGBoost,0.6396296296296297
+breast_coimbra,0.25,K-means SMOTE,DT,0.3568009768009768
+breast_coimbra,0.25,K-means SMOTE,GNB,0.4185714285714286
+breast_coimbra,0.25,K-means SMOTE,KNN,0.19047619047619047
+breast_coimbra,0.25,K-means SMOTE,LR,0.16888888888888887
+breast_coimbra,0.25,K-means SMOTE,MLP,0.3433333333333333
+breast_coimbra,0.25,K-means SMOTE,RF,0.4396825396825397
+breast_coimbra,0.25,K-means SMOTE,XGBoost,0.4474603174603174
+breast_coimbra,0.25,None,DT,0.3568009768009768
+breast_coimbra,0.25,None,GNB,0.4185714285714286
+breast_coimbra,0.25,None,KNN,0.19047619047619047
+breast_coimbra,0.25,None,LR,0.16888888888888887
+breast_coimbra,0.25,None,MLP,0.3433333333333333
+breast_coimbra,0.25,None,RF,0.4396825396825397
+breast_coimbra,0.25,None,XGBoost,0.4474603174603174
+breast_coimbra,0.25,Random oversampling,DT,0.392063492063492
+breast_coimbra,0.25,Random oversampling,GNB,0.43190476190476185
+breast_coimbra,0.25,Random oversampling,KNN,0.5395382395382394
+breast_coimbra,0.25,Random oversampling,LR,0.42303030303030303
+breast_coimbra,0.25,Random oversampling,MLP,0.42842712842712843
+breast_coimbra,0.25,Random oversampling,RF,0.41539682539682543
+breast_coimbra,0.25,Random oversampling,XGBoost,0.45795093795093794
+breast_coimbra,0.25,Random undersampling,DT,0.4864983164983165
+breast_coimbra,0.25,Random undersampling,GNB,0.44209235209235204
+breast_coimbra,0.25,Random undersampling,KNN,0.4048388648388648
+breast_coimbra,0.25,Random undersampling,LR,0.4392207792207792
+breast_coimbra,0.25,Random undersampling,MLP,0.49967254967254965
+breast_coimbra,0.25,Random undersampling,RF,0.4765752765752766
+breast_coimbra,0.25,Random undersampling,XGBoost,0.46727864727864726
+breast_coimbra,0.25,SMOTE,DT,0.5592784992784993
+breast_coimbra,0.25,SMOTE,GNB,0.45714285714285713
+breast_coimbra,0.25,SMOTE,KNN,0.5790620490620491
+breast_coimbra,0.25,SMOTE,LR,0.46714285714285714
+breast_coimbra,0.25,SMOTE,MLP,0.5492736892736892
+breast_coimbra,0.25,SMOTE,RF,0.5193650793650794
+breast_coimbra,0.25,SMOTE,XGBoost,0.5499999999999999
+breast_coimbra,0.5,ADASYN,DT,0.5567242017242018
+breast_coimbra,0.5,ADASYN,GNB,0.5790261590261591
+breast_coimbra,0.5,ADASYN,KNN,0.6513861628567511
+breast_coimbra,0.5,ADASYN,LR,0.5910439560439561
+breast_coimbra,0.5,ADASYN,MLP,0.6167167146578911
+breast_coimbra,0.5,ADASYN,RF,0.6017086617086617
+breast_coimbra,0.5,ADASYN,XGBoost,0.6395907795907796
+breast_coimbra,0.5,Borderline SMOTE 1,DT,0.6078195878195878
+breast_coimbra,0.5,Borderline SMOTE 1,GNB,0.5867184667184667
+breast_coimbra,0.5,Borderline SMOTE 1,KNN,0.6669493578317107
+breast_coimbra,0.5,Borderline SMOTE 1,LR,0.5737647102352984
+breast_coimbra,0.5,Borderline SMOTE 1,MLP,0.6539719104424987
+breast_coimbra,0.5,Borderline SMOTE 1,RF,0.6407986457986458
+breast_coimbra,0.5,Borderline SMOTE 1,XGBoost,0.6583647833647833
+breast_coimbra,0.5,Borderline SMOTE 2,DT,0.6207387057387058
+breast_coimbra,0.5,Borderline SMOTE 2,GNB,0.5813623413623413
+breast_coimbra,0.5,Borderline SMOTE 2,KNN,0.6610069668893198
+breast_coimbra,0.5,Borderline SMOTE 2,LR,0.5999192963898846
+breast_coimbra,0.5,Borderline SMOTE 2,MLP,0.6620726985432868
+breast_coimbra,0.5,Borderline SMOTE 2,RF,0.6293351093351093
+breast_coimbra,0.5,Borderline SMOTE 2,XGBoost,0.6631129981129981
+breast_coimbra,0.5,Counterfactual SMOTE,DT,0.6421428571428572
+breast_coimbra,0.5,Counterfactual SMOTE,GNB,0.5911629111629112
+breast_coimbra,0.5,Counterfactual SMOTE,KNN,0.6999148563854446
+breast_coimbra,0.5,Counterfactual SMOTE,LR,0.5911272061272062
+breast_coimbra,0.5,Counterfactual SMOTE,MLP,0.6362821492233257
+breast_coimbra,0.5,Counterfactual SMOTE,RF,0.6947189411895295
+breast_coimbra,0.5,Counterfactual SMOTE,XGBoost,0.7036463536463536
+breast_coimbra,0.5,Counterfactual SMOTE (fixed),DT,0.6407696299801563
+breast_coimbra,0.5,Counterfactual SMOTE (fixed),GNB,0.5866355866355866
+breast_coimbra,0.5,Counterfactual SMOTE (fixed),KNN,0.6851465201465201
+breast_coimbra,0.5,Counterfactual SMOTE (fixed),LR,0.6038457403163285
+breast_coimbra,0.5,Counterfactual SMOTE (fixed),MLP,0.6265252394664159
+breast_coimbra,0.5,Counterfactual SMOTE (fixed),RF,0.6679648129648129
+breast_coimbra,0.5,Counterfactual SMOTE (fixed),XGBoost,0.6602369852369853
+breast_coimbra,0.5,K-means SMOTE,DT,0.5292664742664743
+breast_coimbra,0.5,K-means SMOTE,GNB,0.5290909090909092
+breast_coimbra,0.5,K-means SMOTE,KNN,0.5375343175343175
+breast_coimbra,0.5,K-means SMOTE,LR,0.3908754208754209
+breast_coimbra,0.5,K-means SMOTE,MLP,0.5927635327635328
+breast_coimbra,0.5,K-means SMOTE,RF,0.6045720945720946
+breast_coimbra,0.5,K-means SMOTE,XGBoost,0.6156247456247456
+breast_coimbra,0.5,None,DT,0.5202776852776853
+breast_coimbra,0.5,None,GNB,0.5290909090909092
+breast_coimbra,0.5,None,KNN,0.5308676508676509
+breast_coimbra,0.5,None,LR,0.34015873015873016
+breast_coimbra,0.5,None,MLP,0.5846827246827248
+breast_coimbra,0.5,None,RF,0.594067044067044
+breast_coimbra,0.5,None,XGBoost,0.5793343693343694
+breast_coimbra,0.5,Random oversampling,DT,0.5275235875235875
+breast_coimbra,0.5,Random oversampling,GNB,0.528013468013468
+breast_coimbra,0.5,Random oversampling,KNN,0.6296272355095884
+breast_coimbra,0.5,Random oversampling,LR,0.5260878010878011
+breast_coimbra,0.5,Random oversampling,MLP,0.5761112525818408
+breast_coimbra,0.5,Random oversampling,RF,0.5732456432456433
+breast_coimbra,0.5,Random oversampling,XGBoost,0.5914855514855515
+breast_coimbra,0.5,Random undersampling,DT,0.5512457041868807
+breast_coimbra,0.5,Random undersampling,GNB,0.534040404040404
+breast_coimbra,0.5,Random undersampling,KNN,0.589037629037629
+breast_coimbra,0.5,Random undersampling,LR,0.5180730380730381
+breast_coimbra,0.5,Random undersampling,MLP,0.5521790736496618
+breast_coimbra,0.5,Random undersampling,RF,0.6185185185185185
+breast_coimbra,0.5,Random undersampling,XGBoost,0.6304637084048849
+breast_coimbra,0.5,SMOTE,DT,0.5741713841713841
+breast_coimbra,0.5,SMOTE,GNB,0.5628956228956229
+breast_coimbra,0.5,SMOTE,KNN,0.6446233505057034
+breast_coimbra,0.5,SMOTE,LR,0.5817722582428465
+breast_coimbra,0.5,SMOTE,MLP,0.6014222378928261
+breast_coimbra,0.5,SMOTE,RF,0.6176262626262626
+breast_coimbra,0.5,SMOTE,XGBoost,0.6462087912087912
+breast_wisconsin_diag,0.1,ADASYN,DT,0.7258056758056758
+breast_wisconsin_diag,0.1,ADASYN,GNB,0.7106989306989308
+breast_wisconsin_diag,0.1,ADASYN,KNN,0.8141366041366042
+breast_wisconsin_diag,0.1,ADASYN,LR,0.8182517482517483
+breast_wisconsin_diag,0.1,ADASYN,MLP,0.891149591149591
+breast_wisconsin_diag,0.1,ADASYN,RF,0.8204232804232804
+breast_wisconsin_diag,0.1,ADASYN,XGBoost,0.7673341473341474
+breast_wisconsin_diag,0.1,Borderline SMOTE 1,DT,0.7830687830687831
+breast_wisconsin_diag,0.1,Borderline SMOTE 1,GNB,0.7364875864875864
+breast_wisconsin_diag,0.1,Borderline SMOTE 1,KNN,0.8332830132830132
+breast_wisconsin_diag,0.1,Borderline SMOTE 1,LR,0.8726599326599326
+breast_wisconsin_diag,0.1,Borderline SMOTE 1,MLP,0.8993650793650794
+breast_wisconsin_diag,0.1,Borderline SMOTE 1,RF,0.8413227513227514
+breast_wisconsin_diag,0.1,Borderline SMOTE 1,XGBoost,0.8296007696007696
+breast_wisconsin_diag,0.1,Borderline SMOTE 2,DT,0.7620346320346321
+breast_wisconsin_diag,0.1,Borderline SMOTE 2,GNB,0.6977392977392979
+breast_wisconsin_diag,0.1,Borderline SMOTE 2,KNN,0.8336700336700337
+breast_wisconsin_diag,0.1,Borderline SMOTE 2,LR,0.8621704221704222
+breast_wisconsin_diag,0.1,Borderline SMOTE 2,MLP,0.8966378066378068
+breast_wisconsin_diag,0.1,Borderline SMOTE 2,RF,0.8602116402116402
+breast_wisconsin_diag,0.1,Borderline SMOTE 2,XGBoost,0.8471428571428571
+breast_wisconsin_diag,0.1,Counterfactual SMOTE,DT,0.8511303511303511
+breast_wisconsin_diag,0.1,Counterfactual SMOTE,GNB,0.8184126984126984
+breast_wisconsin_diag,0.1,Counterfactual SMOTE,KNN,0.8769023569023568
+breast_wisconsin_diag,0.1,Counterfactual SMOTE,LR,0.9185569985569986
+breast_wisconsin_diag,0.1,Counterfactual SMOTE,MLP,0.9305194805194805
+breast_wisconsin_diag,0.1,Counterfactual SMOTE,RF,0.8726118326118325
+breast_wisconsin_diag,0.1,Counterfactual SMOTE,XGBoost,0.903068783068783
+breast_wisconsin_diag,0.1,Counterfactual SMOTE (fixed),DT,0.8517460317460318
+breast_wisconsin_diag,0.1,Counterfactual SMOTE (fixed),GNB,0.8162555962555963
+breast_wisconsin_diag,0.1,Counterfactual SMOTE (fixed),KNN,0.8834054834054834
+breast_wisconsin_diag,0.1,Counterfactual SMOTE (fixed),LR,0.9130351130351131
+breast_wisconsin_diag,0.1,Counterfactual SMOTE (fixed),MLP,0.9097065897065897
+breast_wisconsin_diag,0.1,Counterfactual SMOTE (fixed),RF,0.8654689754689754
+breast_wisconsin_diag,0.1,Counterfactual SMOTE (fixed),XGBoost,0.884021164021164
+breast_wisconsin_diag,0.1,K-means SMOTE,DT,0.7669312169312169
+breast_wisconsin_diag,0.1,K-means SMOTE,GNB,0.7854497354497355
+breast_wisconsin_diag,0.1,K-means SMOTE,KNN,0.7814285714285715
+breast_wisconsin_diag,0.1,K-means SMOTE,LR,0.8593121693121692
+breast_wisconsin_diag,0.1,K-means SMOTE,MLP,0.9041269841269841
+breast_wisconsin_diag,0.1,K-means SMOTE,RF,0.8316402116402117
+breast_wisconsin_diag,0.1,K-means SMOTE,XGBoost,0.8653968253968255
+breast_wisconsin_diag,0.1,None,DT,0.7331216931216931
+breast_wisconsin_diag,0.1,None,GNB,0.7019099419099418
+breast_wisconsin_diag,0.1,None,KNN,0.7300529100529101
+breast_wisconsin_diag,0.1,None,LR,0.7117989417989418
+breast_wisconsin_diag,0.1,None,MLP,0.7864550264550264
+breast_wisconsin_diag,0.1,None,RF,0.7975661375661375
+breast_wisconsin_diag,0.1,None,XGBoost,0.838167388167388
+breast_wisconsin_diag,0.1,Random oversampling,DT,0.7209235209235209
+breast_wisconsin_diag,0.1,Random oversampling,GNB,0.6983697783697784
+breast_wisconsin_diag,0.1,Random oversampling,KNN,0.8146801346801347
+breast_wisconsin_diag,0.1,Random oversampling,LR,0.8725300625300626
+breast_wisconsin_diag,0.1,Random oversampling,MLP,0.8923280423280424
+breast_wisconsin_diag,0.1,Random oversampling,RF,0.8021164021164021
+breast_wisconsin_diag,0.1,Random oversampling,XGBoost,0.8164261664261664
+breast_wisconsin_diag,0.1,Random undersampling,DT,0.5092855869097624
+breast_wisconsin_diag,0.1,Random undersampling,GNB,0.62292108762697
+breast_wisconsin_diag,0.1,Random undersampling,KNN,0.6784904855493091
+breast_wisconsin_diag,0.1,Random undersampling,LR,0.7857409257409258
+breast_wisconsin_diag,0.1,Random undersampling,MLP,0.5920564947035536
+breast_wisconsin_diag,0.1,Random undersampling,RF,0.6014601411660235
+breast_wisconsin_diag,0.1,Random undersampling,XGBoost,0.575442977501801
+breast_wisconsin_diag,0.1,SMOTE,DT,0.7337999037999038
+breast_wisconsin_diag,0.1,SMOTE,GNB,0.7574880674880675
+breast_wisconsin_diag,0.1,SMOTE,KNN,0.8100962000962001
+breast_wisconsin_diag,0.1,SMOTE,LR,0.8904425204425205
+breast_wisconsin_diag,0.1,SMOTE,MLP,0.9019240019240019
+breast_wisconsin_diag,0.1,SMOTE,RF,0.8478835978835978
+breast_wisconsin_diag,0.1,SMOTE,XGBoost,0.8350264550264551
+breast_wisconsin_diag,0.25,ADASYN,DT,0.8273534996135615
+breast_wisconsin_diag,0.25,ADASYN,GNB,0.8192201166224155
+breast_wisconsin_diag,0.25,ADASYN,KNN,0.8839899713812757
+breast_wisconsin_diag,0.25,ADASYN,LR,0.8858497584004831
+breast_wisconsin_diag,0.25,ADASYN,MLP,0.937535005040726
+breast_wisconsin_diag,0.25,ADASYN,RF,0.9009283634011053
+breast_wisconsin_diag,0.25,ADASYN,XGBoost,0.9075965451617627
+breast_wisconsin_diag,0.25,Borderline SMOTE 1,DT,0.8671597637043861
+breast_wisconsin_diag,0.25,Borderline SMOTE 1,GNB,0.837069086253231
+breast_wisconsin_diag,0.25,Borderline SMOTE 1,KNN,0.914629949252375
+breast_wisconsin_diag,0.25,Borderline SMOTE 1,LR,0.9075613554454134
+breast_wisconsin_diag,0.25,Borderline SMOTE 1,MLP,0.939224615540405
+breast_wisconsin_diag,0.25,Borderline SMOTE 1,RF,0.9127864671585225
+breast_wisconsin_diag,0.25,Borderline SMOTE 1,XGBoost,0.9143709405265469
+breast_wisconsin_diag,0.25,Borderline SMOTE 2,DT,0.8709072373511733
+breast_wisconsin_diag,0.25,Borderline SMOTE 2,GNB,0.8221955574919093
+breast_wisconsin_diag,0.25,Borderline SMOTE 2,KNN,0.9152907961603614
+breast_wisconsin_diag,0.25,Borderline SMOTE 2,LR,0.8791201552071118
+breast_wisconsin_diag,0.25,Borderline SMOTE 2,MLP,0.9199460121199251
+breast_wisconsin_diag,0.25,Borderline SMOTE 2,RF,0.920812664200738
+breast_wisconsin_diag,0.25,Borderline SMOTE 2,XGBoost,0.9303056719532692
+breast_wisconsin_diag,0.25,Counterfactual SMOTE,DT,0.8812237114525443
+breast_wisconsin_diag,0.25,Counterfactual SMOTE,GNB,0.86570951431821
+breast_wisconsin_diag,0.25,Counterfactual SMOTE,KNN,0.9536535783904205
+breast_wisconsin_diag,0.25,Counterfactual SMOTE,LR,0.95381860448222
+breast_wisconsin_diag,0.25,Counterfactual SMOTE,MLP,0.9645697577276525
+breast_wisconsin_diag,0.25,Counterfactual SMOTE,RF,0.9338172286227205
+breast_wisconsin_diag,0.25,Counterfactual SMOTE,XGBoost,0.9521018290125842
+breast_wisconsin_diag,0.25,Counterfactual SMOTE (fixed),DT,0.8771062652069518
+breast_wisconsin_diag,0.25,Counterfactual SMOTE (fixed),GNB,0.8671986104849673
+breast_wisconsin_diag,0.25,Counterfactual SMOTE (fixed),KNN,0.9491764435242697
+breast_wisconsin_diag,0.25,Counterfactual SMOTE (fixed),LR,0.9538600123497148
+breast_wisconsin_diag,0.25,Counterfactual SMOTE (fixed),MLP,0.961060985797828
+breast_wisconsin_diag,0.25,Counterfactual SMOTE (fixed),RF,0.9326073197926744
+breast_wisconsin_diag,0.25,Counterfactual SMOTE (fixed),XGBoost,0.9382303585049581
+breast_wisconsin_diag,0.25,K-means SMOTE,DT,0.8764295844845044
+breast_wisconsin_diag,0.25,K-means SMOTE,GNB,0.9020340266564523
+breast_wisconsin_diag,0.25,K-means SMOTE,KNN,0.9346944216051768
+breast_wisconsin_diag,0.25,K-means SMOTE,LR,0.9485540707279837
+breast_wisconsin_diag,0.25,K-means SMOTE,MLP,0.9580709018924122
+breast_wisconsin_diag,0.25,K-means SMOTE,RF,0.9344685384959984
+breast_wisconsin_diag,0.25,K-means SMOTE,XGBoost,0.9245558340295182
+breast_wisconsin_diag,0.25,None,DT,0.8554626304283054
+breast_wisconsin_diag,0.25,None,GNB,0.8325985042611777
+breast_wisconsin_diag,0.25,None,KNN,0.9033249791144528
+breast_wisconsin_diag,0.25,None,LR,0.8584341572886465
+breast_wisconsin_diag,0.25,None,MLP,0.907750749422576
+breast_wisconsin_diag,0.25,None,RF,0.8961491783917414
+breast_wisconsin_diag,0.25,None,XGBoost,0.9005250499987342
+breast_wisconsin_diag,0.25,Random oversampling,DT,0.8158640298594532
+breast_wisconsin_diag,0.25,Random oversampling,GNB,0.8282038783320248
+breast_wisconsin_diag,0.25,Random oversampling,KNN,0.9082792950756339
+breast_wisconsin_diag,0.25,Random oversampling,LR,0.9391542756760147
+breast_wisconsin_diag,0.25,Random oversampling,MLP,0.9403877128041888
+breast_wisconsin_diag,0.25,Random oversampling,RF,0.89301827057245
+breast_wisconsin_diag,0.25,Random oversampling,XGBoost,0.899855347635668
+breast_wisconsin_diag,0.25,Random undersampling,DT,0.7243006925515671
+breast_wisconsin_diag,0.25,Random undersampling,GNB,0.7928887617093515
+breast_wisconsin_diag,0.25,Random undersampling,KNN,0.8628265996229382
+breast_wisconsin_diag,0.25,Random undersampling,LR,0.8876737143693666
+breast_wisconsin_diag,0.25,Random undersampling,MLP,0.7841707440947822
+breast_wisconsin_diag,0.25,Random undersampling,RF,0.8142334736357725
+breast_wisconsin_diag,0.25,Random undersampling,XGBoost,0.8165522955767833
+breast_wisconsin_diag,0.25,SMOTE,DT,0.8584611792987079
+breast_wisconsin_diag,0.25,SMOTE,GNB,0.8791764237118929
+breast_wisconsin_diag,0.25,SMOTE,KNN,0.9100035611477258
+breast_wisconsin_diag,0.25,SMOTE,LR,0.9446753246753247
+breast_wisconsin_diag,0.25,SMOTE,MLP,0.9451994721102274
+breast_wisconsin_diag,0.25,SMOTE,RF,0.9328823265894203
+breast_wisconsin_diag,0.25,SMOTE,XGBoost,0.9135663929256607
+breast_wisconsin_diag,0.5,ADASYN,DT,0.8651261279088605
+breast_wisconsin_diag,0.5,ADASYN,GNB,0.8901434607999708
+breast_wisconsin_diag,0.5,ADASYN,KNN,0.9136054692291841
+breast_wisconsin_diag,0.5,ADASYN,LR,0.922532197181073
+breast_wisconsin_diag,0.5,ADASYN,MLP,0.9372279415582975
+breast_wisconsin_diag,0.5,ADASYN,RF,0.9366547617872124
+breast_wisconsin_diag,0.5,ADASYN,XGBoost,0.9353348924851804
+breast_wisconsin_diag,0.5,Borderline SMOTE 1,DT,0.8821741587005835
+breast_wisconsin_diag,0.5,Borderline SMOTE 1,GNB,0.9012963533485906
+breast_wisconsin_diag,0.5,Borderline SMOTE 1,KNN,0.9273330858996349
+breast_wisconsin_diag,0.5,Borderline SMOTE 1,LR,0.9246241400795755
+breast_wisconsin_diag,0.5,Borderline SMOTE 1,MLP,0.9419497585834296
+breast_wisconsin_diag,0.5,Borderline SMOTE 1,RF,0.9361040716827542
+breast_wisconsin_diag,0.5,Borderline SMOTE 1,XGBoost,0.9397804384538219
+breast_wisconsin_diag,0.5,Borderline SMOTE 2,DT,0.8745838853078568
+breast_wisconsin_diag,0.5,Borderline SMOTE 2,GNB,0.8961770275411082
+breast_wisconsin_diag,0.5,Borderline SMOTE 2,KNN,0.9276880134013479
+breast_wisconsin_diag,0.5,Borderline SMOTE 2,LR,0.9073977004477737
+breast_wisconsin_diag,0.5,Borderline SMOTE 2,MLP,0.9284566793839001
+breast_wisconsin_diag,0.5,Borderline SMOTE 2,RF,0.9416033273053176
+breast_wisconsin_diag,0.5,Borderline SMOTE 2,XGBoost,0.9468322234842672
+breast_wisconsin_diag,0.5,Counterfactual SMOTE,DT,0.9030176943978763
+breast_wisconsin_diag,0.5,Counterfactual SMOTE,GNB,0.9032636857923522
+breast_wisconsin_diag,0.5,Counterfactual SMOTE,KNN,0.9517319836945474
+breast_wisconsin_diag,0.5,Counterfactual SMOTE,LR,0.9522263989039988
+breast_wisconsin_diag,0.5,Counterfactual SMOTE,MLP,0.9609451478553059
+breast_wisconsin_diag,0.5,Counterfactual SMOTE,RF,0.9403656203883091
+breast_wisconsin_diag,0.5,Counterfactual SMOTE,XGBoost,0.9501127442602836
+breast_wisconsin_diag,0.5,Counterfactual SMOTE (fixed),DT,0.9041204688939528
+breast_wisconsin_diag,0.5,Counterfactual SMOTE (fixed),GNB,0.9004859653165879
+breast_wisconsin_diag,0.5,Counterfactual SMOTE (fixed),KNN,0.945833735017192
+breast_wisconsin_diag,0.5,Counterfactual SMOTE (fixed),LR,0.9502304000488913
+breast_wisconsin_diag,0.5,Counterfactual SMOTE (fixed),MLP,0.9546024185063372
+breast_wisconsin_diag,0.5,Counterfactual SMOTE (fixed),RF,0.9318576249489464
+breast_wisconsin_diag,0.5,Counterfactual SMOTE (fixed),XGBoost,0.9372986019043875
+breast_wisconsin_diag,0.5,K-means SMOTE,DT,0.8985312239681097
+breast_wisconsin_diag,0.5,K-means SMOTE,GNB,0.9193011047690572
+breast_wisconsin_diag,0.5,K-means SMOTE,KNN,0.9600995713545647
+breast_wisconsin_diag,0.5,K-means SMOTE,LR,0.9586597984272403
+breast_wisconsin_diag,0.5,K-means SMOTE,MLP,0.967669922355118
+breast_wisconsin_diag,0.5,K-means SMOTE,RF,0.9433657090008406
+breast_wisconsin_diag,0.5,K-means SMOTE,XGBoost,0.9542180983035259
+breast_wisconsin_diag,0.5,None,DT,0.8636025563528186
+breast_wisconsin_diag,0.5,None,GNB,0.8872262862045946
+breast_wisconsin_diag,0.5,None,KNN,0.9327031205850204
+breast_wisconsin_diag,0.5,None,LR,0.915406546471418
+breast_wisconsin_diag,0.5,None,MLP,0.937204276574668
+breast_wisconsin_diag,0.5,None,RF,0.9256272903506985
+breast_wisconsin_diag,0.5,None,XGBoost,0.9319464346917551
+breast_wisconsin_diag,0.5,Random oversampling,DT,0.8618385934558739
+breast_wisconsin_diag,0.5,Random oversampling,GNB,0.8876510232471274
+breast_wisconsin_diag,0.5,Random oversampling,KNN,0.9318848193465324
+breast_wisconsin_diag,0.5,Random oversampling,LR,0.9482212309453425
+breast_wisconsin_diag,0.5,Random oversampling,MLP,0.9492384934048106
+breast_wisconsin_diag,0.5,Random oversampling,RF,0.920933689623423
+breast_wisconsin_diag,0.5,Random oversampling,XGBoost,0.9342685450513016
+breast_wisconsin_diag,0.5,Random undersampling,DT,0.8488829956465801
+breast_wisconsin_diag,0.5,Random undersampling,GNB,0.8732503560105984
+breast_wisconsin_diag,0.5,Random undersampling,KNN,0.9092834133590969
+breast_wisconsin_diag,0.5,Random undersampling,LR,0.946484982633593
+breast_wisconsin_diag,0.5,Random undersampling,MLP,0.8911762853017674
+breast_wisconsin_diag,0.5,Random undersampling,RF,0.9133824735616343
+breast_wisconsin_diag,0.5,Random undersampling,XGBoost,0.9195711083986997
+breast_wisconsin_diag,0.5,SMOTE,DT,0.8685117182899377
+breast_wisconsin_diag,0.5,SMOTE,GNB,0.9025364055177866
+breast_wisconsin_diag,0.5,SMOTE,KNN,0.937586674692068
+breast_wisconsin_diag,0.5,SMOTE,LR,0.9560953510471378
+breast_wisconsin_diag,0.5,SMOTE,MLP,0.956358193035793
+breast_wisconsin_diag,0.5,SMOTE,RF,0.9323332064383502
+breast_wisconsin_diag,0.5,SMOTE,XGBoost,0.9483081575268805
+breast_wisconsin_prog,0.1,ADASYN,DT,0.0
+breast_wisconsin_prog,0.1,ADASYN,GNB,0.0
+breast_wisconsin_prog,0.1,ADASYN,KNN,0.05714285714285714
+breast_wisconsin_prog,0.1,ADASYN,LR,0.02878787878787879
+breast_wisconsin_prog,0.1,ADASYN,MLP,0.02666666666666667
+breast_wisconsin_prog,0.1,ADASYN,RF,0.0
+breast_wisconsin_prog,0.1,ADASYN,XGBoost,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 1,DT,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 1,GNB,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 1,KNN,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 1,LR,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 1,MLP,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 1,RF,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 1,XGBoost,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 2,DT,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 2,GNB,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 2,KNN,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 2,LR,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 2,MLP,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 2,RF,0.0
+breast_wisconsin_prog,0.1,Borderline SMOTE 2,XGBoost,0.0
+breast_wisconsin_prog,0.1,Counterfactual SMOTE,DT,0.14444444444444446
+breast_wisconsin_prog,0.1,Counterfactual SMOTE,GNB,0.02666666666666667
+breast_wisconsin_prog,0.1,Counterfactual SMOTE,KNN,0.09999999999999999
+breast_wisconsin_prog,0.1,Counterfactual SMOTE,LR,0.0
+breast_wisconsin_prog,0.1,Counterfactual SMOTE,MLP,0.0
+breast_wisconsin_prog,0.1,Counterfactual SMOTE,RF,0.0
+breast_wisconsin_prog,0.1,Counterfactual SMOTE,XGBoost,0.02666666666666667
+breast_wisconsin_prog,0.1,Counterfactual SMOTE (fixed),DT,0.13777777777777778
+breast_wisconsin_prog,0.1,Counterfactual SMOTE (fixed),GNB,0.03878787878787879
+breast_wisconsin_prog,0.1,Counterfactual SMOTE (fixed),KNN,0.12777777777777777
+breast_wisconsin_prog,0.1,Counterfactual SMOTE (fixed),LR,0.019047619047619046
+breast_wisconsin_prog,0.1,Counterfactual SMOTE (fixed),MLP,0.03333333333333333
+breast_wisconsin_prog,0.1,Counterfactual SMOTE (fixed),RF,0.0
+breast_wisconsin_prog,0.1,Counterfactual SMOTE (fixed),XGBoost,0.03333333333333333
+breast_wisconsin_prog,0.1,K-means SMOTE,DT,0.0
+breast_wisconsin_prog,0.1,K-means SMOTE,GNB,0.0
+breast_wisconsin_prog,0.1,K-means SMOTE,KNN,0.0
+breast_wisconsin_prog,0.1,K-means SMOTE,LR,0.0
+breast_wisconsin_prog,0.1,K-means SMOTE,MLP,0.0
+breast_wisconsin_prog,0.1,K-means SMOTE,RF,0.0
+breast_wisconsin_prog,0.1,K-means SMOTE,XGBoost,0.0
+breast_wisconsin_prog,0.1,None,DT,0.0
+breast_wisconsin_prog,0.1,None,GNB,0.0
+breast_wisconsin_prog,0.1,None,KNN,0.0
+breast_wisconsin_prog,0.1,None,LR,0.0
+breast_wisconsin_prog,0.1,None,MLP,0.0
+breast_wisconsin_prog,0.1,None,RF,0.0
+breast_wisconsin_prog,0.1,None,XGBoost,0.0
+breast_wisconsin_prog,0.1,Random oversampling,DT,0.0
+breast_wisconsin_prog,0.1,Random oversampling,GNB,0.0
+breast_wisconsin_prog,0.1,Random oversampling,KNN,0.02666666666666667
+breast_wisconsin_prog,0.1,Random oversampling,LR,0.026936026936026935
+breast_wisconsin_prog,0.1,Random oversampling,MLP,0.0
+breast_wisconsin_prog,0.1,Random oversampling,RF,0.0
+breast_wisconsin_prog,0.1,Random oversampling,XGBoost,0.0
+breast_wisconsin_prog,0.1,Random undersampling,DT,0.04994325935502406
+breast_wisconsin_prog,0.1,Random undersampling,GNB,0.0532502094855036
+breast_wisconsin_prog,0.1,Random undersampling,KNN,0.049612743866613844
+breast_wisconsin_prog,0.1,Random undersampling,LR,0.04481380714610849
+breast_wisconsin_prog,0.1,Random undersampling,MLP,0.030597883597883596
+breast_wisconsin_prog,0.1,Random undersampling,RF,0.05053205404082597
+breast_wisconsin_prog,0.1,Random undersampling,XGBoost,0.0
+breast_wisconsin_prog,0.1,SMOTE,DT,0.0
+breast_wisconsin_prog,0.1,SMOTE,GNB,0.0
+breast_wisconsin_prog,0.1,SMOTE,KNN,0.07380952380952381
+breast_wisconsin_prog,0.1,SMOTE,LR,0.026936026936026935
+breast_wisconsin_prog,0.1,SMOTE,MLP,0.0
+breast_wisconsin_prog,0.1,SMOTE,RF,0.0
+breast_wisconsin_prog,0.1,SMOTE,XGBoost,0.0
+breast_wisconsin_prog,0.25,ADASYN,DT,0.08555555555555555
+breast_wisconsin_prog,0.25,ADASYN,GNB,0.08198294882505408
+breast_wisconsin_prog,0.25,ADASYN,KNN,0.11503507385860327
+breast_wisconsin_prog,0.25,ADASYN,LR,0.10882450882450882
+breast_wisconsin_prog,0.25,ADASYN,MLP,0.09598364598364599
+breast_wisconsin_prog,0.25,ADASYN,RF,0.03809523809523809
+breast_wisconsin_prog,0.25,ADASYN,XGBoost,0.13333333333333333
+breast_wisconsin_prog,0.25,Borderline SMOTE 1,DT,0.16920634920634922
+breast_wisconsin_prog,0.25,Borderline SMOTE 1,GNB,0.17212885154061622
+breast_wisconsin_prog,0.25,Borderline SMOTE 1,KNN,0.14615001556178026
+breast_wisconsin_prog,0.25,Borderline SMOTE 1,LR,0.14174603174603173
+breast_wisconsin_prog,0.25,Borderline SMOTE 1,MLP,0.14094424094424093
+breast_wisconsin_prog,0.25,Borderline SMOTE 1,RF,0.044444444444444446
+breast_wisconsin_prog,0.25,Borderline SMOTE 1,XGBoost,0.12222222222222223
+breast_wisconsin_prog,0.25,Borderline SMOTE 2,DT,0.19936507936507938
+breast_wisconsin_prog,0.25,Borderline SMOTE 2,GNB,0.1688888888888889
+breast_wisconsin_prog,0.25,Borderline SMOTE 2,KNN,0.17
+breast_wisconsin_prog,0.25,Borderline SMOTE 2,LR,0.16227994227994227
+breast_wisconsin_prog,0.25,Borderline SMOTE 2,MLP,0.12380952380952381
+breast_wisconsin_prog,0.25,Borderline SMOTE 2,RF,0.03333333333333333
+breast_wisconsin_prog,0.25,Borderline SMOTE 2,XGBoost,0.21555555555555553
+breast_wisconsin_prog,0.25,Counterfactual SMOTE,DT,0.18000000000000002
+breast_wisconsin_prog,0.25,Counterfactual SMOTE,GNB,0.15475376475376476
+breast_wisconsin_prog,0.25,Counterfactual SMOTE,KNN,0.17735449735449735
+breast_wisconsin_prog,0.25,Counterfactual SMOTE,LR,0.1493040293040293
+breast_wisconsin_prog,0.25,Counterfactual SMOTE,MLP,0.14238095238095239
+breast_wisconsin_prog,0.25,Counterfactual SMOTE,RF,0.10333333333333333
+breast_wisconsin_prog,0.25,Counterfactual SMOTE,XGBoost,0.17953342953342954
+breast_wisconsin_prog,0.25,Counterfactual SMOTE (fixed),DT,0.22565471565471565
+breast_wisconsin_prog,0.25,Counterfactual SMOTE (fixed),GNB,0.17353683353683355
+breast_wisconsin_prog,0.25,Counterfactual SMOTE (fixed),KNN,0.19520700146087142
+breast_wisconsin_prog,0.25,Counterfactual SMOTE (fixed),LR,0.13545454545454547
+breast_wisconsin_prog,0.25,Counterfactual SMOTE (fixed),MLP,0.13693121693121693
+breast_wisconsin_prog,0.25,Counterfactual SMOTE (fixed),RF,0.11296296296296297
+breast_wisconsin_prog,0.25,Counterfactual SMOTE (fixed),XGBoost,0.13396825396825396
+breast_wisconsin_prog,0.25,K-means SMOTE,DT,0.05333333333333334
+breast_wisconsin_prog,0.25,K-means SMOTE,GNB,0.06571428571428571
+breast_wisconsin_prog,0.25,K-means SMOTE,KNN,0.0
+breast_wisconsin_prog,0.25,K-means SMOTE,LR,0.0
+breast_wisconsin_prog,0.25,K-means SMOTE,MLP,0.0
+breast_wisconsin_prog,0.25,K-means SMOTE,RF,0.0
+breast_wisconsin_prog,0.25,K-means SMOTE,XGBoost,0.0
+breast_wisconsin_prog,0.25,None,DT,0.05333333333333334
+breast_wisconsin_prog,0.25,None,GNB,0.06571428571428571
+breast_wisconsin_prog,0.25,None,KNN,0.0
+breast_wisconsin_prog,0.25,None,LR,0.0
+breast_wisconsin_prog,0.25,None,MLP,0.0
+breast_wisconsin_prog,0.25,None,RF,0.0
+breast_wisconsin_prog,0.25,None,XGBoost,0.0
+breast_wisconsin_prog,0.25,Random oversampling,DT,0.05629629629629629
+breast_wisconsin_prog,0.25,Random oversampling,GNB,0.06767676767676767
+breast_wisconsin_prog,0.25,Random oversampling,KNN,0.07962962962962962
+breast_wisconsin_prog,0.25,Random oversampling,LR,0.10952380952380952
+breast_wisconsin_prog,0.25,Random oversampling,MLP,0.06476190476190476
+breast_wisconsin_prog,0.25,Random oversampling,RF,0.022222222222222223
+breast_wisconsin_prog,0.25,Random oversampling,XGBoost,0.0
+breast_wisconsin_prog,0.25,Random undersampling,DT,0.10298169666590719
+breast_wisconsin_prog,0.25,Random undersampling,GNB,0.11215989606082484
+breast_wisconsin_prog,0.25,Random undersampling,KNN,0.11766777460585509
+breast_wisconsin_prog,0.25,Random undersampling,LR,0.1267287703481087
+breast_wisconsin_prog,0.25,Random undersampling,MLP,0.11706205998259663
+breast_wisconsin_prog,0.25,Random undersampling,RF,0.1285689903491761
+breast_wisconsin_prog,0.25,Random undersampling,XGBoost,0.15867352880140603
+breast_wisconsin_prog,0.25,SMOTE,DT,0.07333333333333333
+breast_wisconsin_prog,0.25,SMOTE,GNB,0.08152625152625152
+breast_wisconsin_prog,0.25,SMOTE,KNN,0.11914787540174536
+breast_wisconsin_prog,0.25,SMOTE,LR,0.12847041847041846
+breast_wisconsin_prog,0.25,SMOTE,MLP,0.09042809042809041
+breast_wisconsin_prog,0.25,SMOTE,RF,0.03809523809523809
+breast_wisconsin_prog,0.25,SMOTE,XGBoost,0.09333333333333334
+breast_wisconsin_prog,0.5,ADASYN,DT,0.24115777984199036
+breast_wisconsin_prog,0.5,ADASYN,GNB,0.28922419215917666
+breast_wisconsin_prog,0.5,ADASYN,KNN,0.25610787979612853
+breast_wisconsin_prog,0.5,ADASYN,LR,0.28954196493412176
+breast_wisconsin_prog,0.5,ADASYN,MLP,0.29855866355866356
+breast_wisconsin_prog,0.5,ADASYN,RF,0.24158730158730157
+breast_wisconsin_prog,0.5,ADASYN,XGBoost,0.22068783068783068
+breast_wisconsin_prog,0.5,Borderline SMOTE 1,DT,0.2704776704776705
+breast_wisconsin_prog,0.5,Borderline SMOTE 1,GNB,0.3138092213943607
+breast_wisconsin_prog,0.5,Borderline SMOTE 1,KNN,0.2746540474775769
+breast_wisconsin_prog,0.5,Borderline SMOTE 1,LR,0.32087548846062774
+breast_wisconsin_prog,0.5,Borderline SMOTE 1,MLP,0.3213954563954564
+breast_wisconsin_prog,0.5,Borderline SMOTE 1,RF,0.30365079365079367
+breast_wisconsin_prog,0.5,Borderline SMOTE 1,XGBoost,0.25472823472823475
+breast_wisconsin_prog,0.5,Borderline SMOTE 2,DT,0.28612609612609613
+breast_wisconsin_prog,0.5,Borderline SMOTE 2,GNB,0.3234937771779877
+breast_wisconsin_prog,0.5,Borderline SMOTE 2,KNN,0.2644250520721109
+breast_wisconsin_prog,0.5,Borderline SMOTE 2,LR,0.2998826881179822
+breast_wisconsin_prog,0.5,Borderline SMOTE 2,MLP,0.3180471380471381
+breast_wisconsin_prog,0.5,Borderline SMOTE 2,RF,0.2752910052910053
+breast_wisconsin_prog,0.5,Borderline SMOTE 2,XGBoost,0.22883597883597884
+breast_wisconsin_prog,0.5,Counterfactual SMOTE,DT,0.33530636030636024
+breast_wisconsin_prog,0.5,Counterfactual SMOTE,GNB,0.3205729530187735
+breast_wisconsin_prog,0.5,Counterfactual SMOTE,KNN,0.3271243972172765
+breast_wisconsin_prog,0.5,Counterfactual SMOTE,LR,0.3064779275305591
+breast_wisconsin_prog,0.5,Counterfactual SMOTE,MLP,0.33032042032042036
+breast_wisconsin_prog,0.5,Counterfactual SMOTE,RF,0.3378865578865579
+breast_wisconsin_prog,0.5,Counterfactual SMOTE,XGBoost,0.33114562996915936
+breast_wisconsin_prog,0.5,Counterfactual SMOTE (fixed),DT,0.36771663490535483
+breast_wisconsin_prog,0.5,Counterfactual SMOTE (fixed),GNB,0.3175478494673541
+breast_wisconsin_prog,0.5,Counterfactual SMOTE (fixed),KNN,0.2941176905882788
+breast_wisconsin_prog,0.5,Counterfactual SMOTE (fixed),LR,0.3232962456646667
+breast_wisconsin_prog,0.5,Counterfactual SMOTE (fixed),MLP,0.3176342176342177
+breast_wisconsin_prog,0.5,Counterfactual SMOTE (fixed),RF,0.341796397616831
+breast_wisconsin_prog,0.5,Counterfactual SMOTE (fixed),XGBoost,0.34385762385762386
+breast_wisconsin_prog,0.5,K-means SMOTE,DT,0.16993561993561992
+breast_wisconsin_prog,0.5,K-means SMOTE,GNB,0.2858495752613399
+breast_wisconsin_prog,0.5,K-means SMOTE,KNN,0.09624338624338624
+breast_wisconsin_prog,0.5,K-means SMOTE,LR,0.06571095571095571
+breast_wisconsin_prog,0.5,K-means SMOTE,MLP,0.06222222222222223
+breast_wisconsin_prog,0.5,K-means SMOTE,RF,0.06666666666666667
+breast_wisconsin_prog,0.5,K-means SMOTE,XGBoost,0.13460317460317459
+breast_wisconsin_prog,0.5,None,DT,0.16845413845413845
+breast_wisconsin_prog,0.5,None,GNB,0.2624729518847166
+breast_wisconsin_prog,0.5,None,KNN,0.045714285714285714
+breast_wisconsin_prog,0.5,None,LR,0.02666666666666667
+breast_wisconsin_prog,0.5,None,MLP,0.02666666666666667
+breast_wisconsin_prog,0.5,None,RF,0.06666666666666667
+breast_wisconsin_prog,0.5,None,XGBoost,0.08888888888888889
+breast_wisconsin_prog,0.5,Random oversampling,DT,0.1518932918932919
+breast_wisconsin_prog,0.5,Random oversampling,GNB,0.27018537385100855
+breast_wisconsin_prog,0.5,Random oversampling,KNN,0.22488607264768254
+breast_wisconsin_prog,0.5,Random oversampling,LR,0.2604755100420735
+breast_wisconsin_prog,0.5,Random oversampling,MLP,0.28332288910294023
+breast_wisconsin_prog,0.5,Random oversampling,RF,0.16126984126984126
+breast_wisconsin_prog,0.5,Random oversampling,XGBoost,0.10846560846560845
+breast_wisconsin_prog,0.5,Random undersampling,DT,0.2032468324962604
+breast_wisconsin_prog,0.5,Random undersampling,GNB,0.25141422472772584
+breast_wisconsin_prog,0.5,Random undersampling,KNN,0.2851378277011157
+breast_wisconsin_prog,0.5,Random undersampling,LR,0.2592354268575833
+breast_wisconsin_prog,0.5,Random undersampling,MLP,0.24070375013517623
+breast_wisconsin_prog,0.5,Random undersampling,RF,0.24909496458516064
+breast_wisconsin_prog,0.5,Random undersampling,XGBoost,0.25522523186901525
+breast_wisconsin_prog,0.5,SMOTE,DT,0.276491504138563
+breast_wisconsin_prog,0.5,SMOTE,GNB,0.2724635027854842
+breast_wisconsin_prog,0.5,SMOTE,KNN,0.25204551912991807
+breast_wisconsin_prog,0.5,SMOTE,LR,0.2925150666327137
+breast_wisconsin_prog,0.5,SMOTE,MLP,0.2948805769394005
+breast_wisconsin_prog,0.5,SMOTE,RF,0.2601058201058201
+breast_wisconsin_prog,0.5,SMOTE,XGBoost,0.2027176527176527
+hepatitis_c,0.1,ADASYN,DT,0.4444444444444444
+hepatitis_c,0.1,ADASYN,GNB,0.34888888888888886
+hepatitis_c,0.1,ADASYN,KNN,0.25555555555555554
+hepatitis_c,0.1,ADASYN,LR,0.30444444444444446
+hepatitis_c,0.1,ADASYN,MLP,0.5333333333333333
+hepatitis_c,0.1,ADASYN,RF,0.4888888888888889
+hepatitis_c,0.1,ADASYN,XGBoost,0.5377777777777778
+hepatitis_c,0.1,Borderline SMOTE 1,DT,0.45555555555555555
+hepatitis_c,0.1,Borderline SMOTE 1,GNB,0.4222222222222222
+hepatitis_c,0.1,Borderline SMOTE 1,KNN,0.25555555555555554
+hepatitis_c,0.1,Borderline SMOTE 1,LR,0.26666666666666666
+hepatitis_c,0.1,Borderline SMOTE 1,MLP,0.4222222222222222
+hepatitis_c,0.1,Borderline SMOTE 1,RF,0.4444444444444444
+hepatitis_c,0.1,Borderline SMOTE 1,XGBoost,0.5777777777777778
+hepatitis_c,0.1,Borderline SMOTE 2,DT,0.4777777777777778
+hepatitis_c,0.1,Borderline SMOTE 2,GNB,0.19999999999999998
+hepatitis_c,0.1,Borderline SMOTE 2,KNN,0.17777777777777778
+hepatitis_c,0.1,Borderline SMOTE 2,LR,0.2888888888888889
+hepatitis_c,0.1,Borderline SMOTE 2,MLP,0.2888888888888889
+hepatitis_c,0.1,Borderline SMOTE 2,RF,0.5111111111111112
+hepatitis_c,0.1,Borderline SMOTE 2,XGBoost,0.5444444444444444
+hepatitis_c,0.1,Counterfactual SMOTE,DT,0.5555555555555555
+hepatitis_c,0.1,Counterfactual SMOTE,GNB,0.34888888888888886
+hepatitis_c,0.1,Counterfactual SMOTE,KNN,0.26666666666666666
+hepatitis_c,0.1,Counterfactual SMOTE,LR,0.35555555555555557
+hepatitis_c,0.1,Counterfactual SMOTE,MLP,0.4444444444444445
+hepatitis_c,0.1,Counterfactual SMOTE,RF,0.5111111111111111
+hepatitis_c,0.1,Counterfactual SMOTE,XGBoost,0.6
+hepatitis_c,0.1,Counterfactual SMOTE (fixed),DT,0.5666666666666667
+hepatitis_c,0.1,Counterfactual SMOTE (fixed),GNB,0.36000000000000004
+hepatitis_c,0.1,Counterfactual SMOTE (fixed),KNN,0.2888888888888889
+hepatitis_c,0.1,Counterfactual SMOTE (fixed),LR,0.35555555555555557
+hepatitis_c,0.1,Counterfactual SMOTE (fixed),MLP,0.5111111111111111
+hepatitis_c,0.1,Counterfactual SMOTE (fixed),RF,0.5777777777777778
+hepatitis_c,0.1,Counterfactual SMOTE (fixed),XGBoost,0.5777777777777777
+hepatitis_c,0.1,K-means SMOTE,DT,0.4444444444444444
+hepatitis_c,0.1,K-means SMOTE,GNB,0.32666666666666666
+hepatitis_c,0.1,K-means SMOTE,KNN,0.0
+hepatitis_c,0.1,K-means SMOTE,LR,0.044444444444444446
+hepatitis_c,0.1,K-means SMOTE,MLP,0.24444444444444446
+hepatitis_c,0.1,K-means SMOTE,RF,0.37777777777777777
+hepatitis_c,0.1,K-means SMOTE,XGBoost,0.4444444444444444
+hepatitis_c,0.1,None,DT,0.4444444444444444
+hepatitis_c,0.1,None,GNB,0.32666666666666666
+hepatitis_c,0.1,None,KNN,0.0
+hepatitis_c,0.1,None,LR,0.044444444444444446
+hepatitis_c,0.1,None,MLP,0.24444444444444446
+hepatitis_c,0.1,None,RF,0.37777777777777777
+hepatitis_c,0.1,None,XGBoost,0.4444444444444444
+hepatitis_c,0.1,Random oversampling,DT,0.2111111111111111
+hepatitis_c,0.1,Random oversampling,GNB,0.36925925925925923
+hepatitis_c,0.1,Random oversampling,KNN,0.19999999999999998
+hepatitis_c,0.1,Random oversampling,LR,0.3079365079365079
+hepatitis_c,0.1,Random oversampling,MLP,0.4333333333333333
+hepatitis_c,0.1,Random oversampling,RF,0.4222222222222222
+hepatitis_c,0.1,Random oversampling,XGBoost,0.5222222222222223
+hepatitis_c,0.1,Random undersampling,DT,0.1677117218293689
+hepatitis_c,0.1,Random undersampling,GNB,0.16633292236460293
+hepatitis_c,0.1,Random undersampling,KNN,0.2333333333333333
+hepatitis_c,0.1,Random undersampling,LR,0.1723239723239723
+hepatitis_c,0.1,Random undersampling,MLP,0.24407888407888403
+hepatitis_c,0.1,Random undersampling,RF,0.3261952861952862
+hepatitis_c,0.1,Random undersampling,XGBoost,0.05600325373448458
+hepatitis_c,0.1,SMOTE,DT,0.4444444444444444
+hepatitis_c,0.1,SMOTE,GNB,0.34888888888888886
+hepatitis_c,0.1,SMOTE,KNN,0.25555555555555554
+hepatitis_c,0.1,SMOTE,LR,0.32
+hepatitis_c,0.1,SMOTE,MLP,0.5555555555555555
+hepatitis_c,0.1,SMOTE,RF,0.4888888888888889
+hepatitis_c,0.1,SMOTE,XGBoost,0.5333333333333333
+hepatitis_c,0.25,ADASYN,DT,0.6309523809523809
+hepatitis_c,0.25,ADASYN,GNB,0.5649650349650349
+hepatitis_c,0.25,ADASYN,KNN,0.6041269841269842
+hepatitis_c,0.25,ADASYN,LR,0.5548677248677248
+hepatitis_c,0.25,ADASYN,MLP,0.7166666666666668
+hepatitis_c,0.25,ADASYN,RF,0.7515873015873016
+hepatitis_c,0.25,ADASYN,XGBoost,0.7776190476190475
+hepatitis_c,0.25,Borderline SMOTE 1,DT,0.6446176046176046
+hepatitis_c,0.25,Borderline SMOTE 1,GNB,0.6410052910052909
+hepatitis_c,0.25,Borderline SMOTE 1,KNN,0.6158730158730159
+hepatitis_c,0.25,Borderline SMOTE 1,LR,0.6422222222222222
+hepatitis_c,0.25,Borderline SMOTE 1,MLP,0.7393650793650793
+hepatitis_c,0.25,Borderline SMOTE 1,RF,0.7014285714285715
+hepatitis_c,0.25,Borderline SMOTE 1,XGBoost,0.7590476190476191
+hepatitis_c,0.25,Borderline SMOTE 2,DT,0.7546031746031746
+hepatitis_c,0.25,Borderline SMOTE 2,GNB,0.6501154401154401
+hepatitis_c,0.25,Borderline SMOTE 2,KNN,0.5644444444444444
+hepatitis_c,0.25,Borderline SMOTE 2,LR,0.6647619047619048
+hepatitis_c,0.25,Borderline SMOTE 2,MLP,0.7214285714285715
+hepatitis_c,0.25,Borderline SMOTE 2,RF,0.6911111111111111
+hepatitis_c,0.25,Borderline SMOTE 2,XGBoost,0.7806349206349207
+hepatitis_c,0.25,Counterfactual SMOTE,DT,0.7584126984126985
+hepatitis_c,0.25,Counterfactual SMOTE,GNB,0.6685185185185185
+hepatitis_c,0.25,Counterfactual SMOTE,KNN,0.6311111111111111
+hepatitis_c,0.25,Counterfactual SMOTE,LR,0.6980952380952381
+hepatitis_c,0.25,Counterfactual SMOTE,MLP,0.8082539682539682
+hepatitis_c,0.25,Counterfactual SMOTE,RF,0.8184126984126984
+hepatitis_c,0.25,Counterfactual SMOTE,XGBoost,0.8685714285714287
+hepatitis_c,0.25,Counterfactual SMOTE (fixed),DT,0.7516931216931217
+hepatitis_c,0.25,Counterfactual SMOTE (fixed),GNB,0.6503174603174603
+hepatitis_c,0.25,Counterfactual SMOTE (fixed),KNN,0.6544444444444445
+hepatitis_c,0.25,Counterfactual SMOTE (fixed),LR,0.6907936507936507
+hepatitis_c,0.25,Counterfactual SMOTE (fixed),MLP,0.7990476190476191
+hepatitis_c,0.25,Counterfactual SMOTE (fixed),RF,0.8012698412698412
+hepatitis_c,0.25,Counterfactual SMOTE (fixed),XGBoost,0.8523809523809524
+hepatitis_c,0.25,K-means SMOTE,DT,0.6298412698412698
+hepatitis_c,0.25,K-means SMOTE,GNB,0.6567724867724868
+hepatitis_c,0.25,K-means SMOTE,KNN,0.20000000000000004
+hepatitis_c,0.25,K-means SMOTE,LR,0.22666666666666666
+hepatitis_c,0.25,K-means SMOTE,MLP,0.49333333333333335
+hepatitis_c,0.25,K-means SMOTE,RF,0.6577777777777778
+hepatitis_c,0.25,K-means SMOTE,XGBoost,0.7247619047619048
+hepatitis_c,0.25,None,DT,0.5965079365079365
+hepatitis_c,0.25,None,GNB,0.6356613756613757
+hepatitis_c,0.25,None,KNN,0.20000000000000004
+hepatitis_c,0.25,None,LR,0.16666666666666666
+hepatitis_c,0.25,None,MLP,0.49333333333333335
+hepatitis_c,0.25,None,RF,0.62
+hepatitis_c,0.25,None,XGBoost,0.708888888888889
+hepatitis_c,0.25,Random oversampling,DT,0.5034920634920635
+hepatitis_c,0.25,Random oversampling,GNB,0.5623665223665224
+hepatitis_c,0.25,Random oversampling,KNN,0.6044444444444445
+hepatitis_c,0.25,Random oversampling,LR,0.5623424723424724
+hepatitis_c,0.25,Random oversampling,MLP,0.7271428571428572
+hepatitis_c,0.25,Random oversampling,RF,0.4733333333333334
+hepatitis_c,0.25,Random oversampling,XGBoost,0.6463492063492063
+hepatitis_c,0.25,Random undersampling,DT,0.30851612096194136
+hepatitis_c,0.25,Random undersampling,GNB,0.3660997042173513
+hepatitis_c,0.25,Random undersampling,KNN,0.4028937728937729
+hepatitis_c,0.25,Random undersampling,LR,0.5514021164021164
+hepatitis_c,0.25,Random undersampling,MLP,0.5885185185185184
+hepatitis_c,0.25,Random undersampling,RF,0.5896296296296296
+hepatitis_c,0.25,Random undersampling,XGBoost,0.3802915213441529
+hepatitis_c,0.25,SMOTE,DT,0.6484126984126984
+hepatitis_c,0.25,SMOTE,GNB,0.584040404040404
+hepatitis_c,0.25,SMOTE,KNN,0.6271428571428572
+hepatitis_c,0.25,SMOTE,LR,0.5766666666666667
+hepatitis_c,0.25,SMOTE,MLP,0.7066666666666667
+hepatitis_c,0.25,SMOTE,RF,0.758888888888889
+hepatitis_c,0.25,SMOTE,XGBoost,0.7611111111111111
+hepatitis_c,0.5,ADASYN,DT,0.7249357659883976
+hepatitis_c,0.5,ADASYN,GNB,0.6676040673355251
+hepatitis_c,0.5,ADASYN,KNN,0.7496181596181596
+hepatitis_c,0.5,ADASYN,LR,0.7069282368817973
+hepatitis_c,0.5,ADASYN,MLP,0.7914874014874015
+hepatitis_c,0.5,ADASYN,RF,0.8736285936285938
+hepatitis_c,0.5,ADASYN,XGBoost,0.8605944055944056
+hepatitis_c,0.5,Borderline SMOTE 1,DT,0.7663257113257114
+hepatitis_c,0.5,Borderline SMOTE 1,GNB,0.6918808144040343
+hepatitis_c,0.5,Borderline SMOTE 1,KNN,0.778918858918859
+hepatitis_c,0.5,Borderline SMOTE 1,LR,0.7423258223258223
+hepatitis_c,0.5,Borderline SMOTE 1,MLP,0.8286757686757688
+hepatitis_c,0.5,Borderline SMOTE 1,RF,0.8897902097902097
+hepatitis_c,0.5,Borderline SMOTE 1,XGBoost,0.8947163947163946
+hepatitis_c,0.5,Borderline SMOTE 2,DT,0.8113347763347764
+hepatitis_c,0.5,Borderline SMOTE 2,GNB,0.6835258205846442
+hepatitis_c,0.5,Borderline SMOTE 2,KNN,0.740872460872461
+hepatitis_c,0.5,Borderline SMOTE 2,LR,0.7376482341188223
+hepatitis_c,0.5,Borderline SMOTE 2,MLP,0.8287334887334888
+hepatitis_c,0.5,Borderline SMOTE 2,RF,0.8613542013542013
+hepatitis_c,0.5,Borderline SMOTE 2,XGBoost,0.8906826506826507
+hepatitis_c,0.5,Counterfactual SMOTE,DT,0.8221067821067821
+hepatitis_c,0.5,Counterfactual SMOTE,GNB,0.7311713776419659
+hepatitis_c,0.5,Counterfactual SMOTE,KNN,0.7211854811854813
+hepatitis_c,0.5,Counterfactual SMOTE,LR,0.7681651681651682
+hepatitis_c,0.5,Counterfactual SMOTE,MLP,0.8187928737928738
+hepatitis_c,0.5,Counterfactual SMOTE,RF,0.8971583971583973
+hepatitis_c,0.5,Counterfactual SMOTE,XGBoost,0.9027372627372627
+hepatitis_c,0.5,Counterfactual SMOTE (fixed),DT,0.8122288822288822
+hepatitis_c,0.5,Counterfactual SMOTE (fixed),GNB,0.7321234321234321
+hepatitis_c,0.5,Counterfactual SMOTE (fixed),KNN,0.7483638583638584
+hepatitis_c,0.5,Counterfactual SMOTE (fixed),LR,0.7703977503977505
+hepatitis_c,0.5,Counterfactual SMOTE (fixed),MLP,0.8244080102903633
+hepatitis_c,0.5,Counterfactual SMOTE (fixed),RF,0.8749073149073149
+hepatitis_c,0.5,Counterfactual SMOTE (fixed),XGBoost,0.9002952602952603
+hepatitis_c,0.5,K-means SMOTE,DT,0.7821622821622821
+hepatitis_c,0.5,K-means SMOTE,GNB,0.7377922077922078
+hepatitis_c,0.5,K-means SMOTE,KNN,0.5341654641654642
+hepatitis_c,0.5,K-means SMOTE,LR,0.5964405964405964
+hepatitis_c,0.5,K-means SMOTE,MLP,0.7539105339105339
+hepatitis_c,0.5,K-means SMOTE,RF,0.8188344988344989
+hepatitis_c,0.5,K-means SMOTE,XGBoost,0.8907226107226108
+hepatitis_c,0.5,None,DT,0.7452236652236652
+hepatitis_c,0.5,None,GNB,0.7066425731131614
+hepatitis_c,0.5,None,KNN,0.4334583934583935
+hepatitis_c,0.5,None,LR,0.25587301587301586
+hepatitis_c,0.5,None,MLP,0.6395526695526695
+hepatitis_c,0.5,None,RF,0.8118881118881118
+hepatitis_c,0.5,None,XGBoost,0.8627972027972027
+hepatitis_c,0.5,Random oversampling,DT,0.7374891774891775
+hepatitis_c,0.5,Random oversampling,GNB,0.6485681134597544
+hepatitis_c,0.5,Random oversampling,KNN,0.7221881821881823
+hepatitis_c,0.5,Random oversampling,LR,0.706038776038776
+hepatitis_c,0.5,Random oversampling,MLP,0.7976756576756575
+hepatitis_c,0.5,Random oversampling,RF,0.8156021756021756
+hepatitis_c,0.5,Random oversampling,XGBoost,0.8671350871350872
+hepatitis_c,0.5,Random undersampling,DT,0.5149117854139167
+hepatitis_c,0.5,Random undersampling,GNB,0.559687830752577
+hepatitis_c,0.5,Random undersampling,KNN,0.5542578682092748
+hepatitis_c,0.5,Random undersampling,LR,0.5944609567003455
+hepatitis_c,0.5,Random undersampling,MLP,0.6332006882006881
+hepatitis_c,0.5,Random undersampling,RF,0.7266032161852595
+hepatitis_c,0.5,Random undersampling,XGBoost,0.6062446410272497
+hepatitis_c,0.5,SMOTE,DT,0.7628793428793429
+hepatitis_c,0.5,SMOTE,GNB,0.6763486015188801
+hepatitis_c,0.5,SMOTE,KNN,0.768105228105228
+hepatitis_c,0.5,SMOTE,LR,0.7365782365782366
+hepatitis_c,0.5,SMOTE,MLP,0.8075169275169275
+hepatitis_c,0.5,SMOTE,RF,0.8786013986013986
+hepatitis_c,0.5,SMOTE,XGBoost,0.8679143079143078
+indian_liver,0.05,ADASYN,DT,0.2799554149554149
+indian_liver,0.05,ADASYN,GNB,0.3955747955747955
+indian_liver,0.05,ADASYN,KNN,0.2867398855014954
+indian_liver,0.05,ADASYN,LR,0.3359126952625404
+indian_liver,0.05,ADASYN,MLP,0.35678230266465555
+indian_liver,0.05,ADASYN,RF,0.3513323713323713
+indian_liver,0.05,ADASYN,XGBoost,0.36344877344877347
+indian_liver,0.05,Borderline SMOTE 1,DT,0.3262097162097162
+indian_liver,0.05,Borderline SMOTE 1,GNB,0.44541606541606543
+indian_liver,0.05,Borderline SMOTE 1,KNN,0.3461921411921412
+indian_liver,0.05,Borderline SMOTE 1,LR,0.39822595704948643
+indian_liver,0.05,Borderline SMOTE 1,MLP,0.4068072668072668
+indian_liver,0.05,Borderline SMOTE 1,RF,0.3376719576719576
+indian_liver,0.05,Borderline SMOTE 1,XGBoost,0.4062718762718763
+indian_liver,0.05,Borderline SMOTE 2,DT,0.3222366522366522
+indian_liver,0.05,Borderline SMOTE 2,GNB,0.4232304732304732
+indian_liver,0.05,Borderline SMOTE 2,KNN,0.31785288785288784
+indian_liver,0.05,Borderline SMOTE 2,LR,0.43367965367965366
+indian_liver,0.05,Borderline SMOTE 2,MLP,0.40175380175380176
+indian_liver,0.05,Borderline SMOTE 2,RF,0.3386243386243386
+indian_liver,0.05,Borderline SMOTE 2,XGBoost,0.31805675805675804
+indian_liver,0.05,Counterfactual SMOTE,DT,0.397004477004477
+indian_liver,0.05,Counterfactual SMOTE,GNB,0.43255892255892253
+indian_liver,0.05,Counterfactual SMOTE,KNN,0.3586243386243386
+indian_liver,0.05,Counterfactual SMOTE,LR,0.46894179894179894
+indian_liver,0.05,Counterfactual SMOTE,MLP,0.4838421594458746
+indian_liver,0.05,Counterfactual SMOTE,RF,0.39465608465608465
+indian_liver,0.05,Counterfactual SMOTE,XGBoost,0.4143386243386244
+indian_liver,0.05,Counterfactual SMOTE (fixed),DT,0.3806878306878307
+indian_liver,0.05,Counterfactual SMOTE (fixed),GNB,0.427003367003367
+indian_liver,0.05,Counterfactual SMOTE (fixed),KNN,0.35128427128427125
+indian_liver,0.05,Counterfactual SMOTE (fixed),LR,0.4682987382987383
+indian_liver,0.05,Counterfactual SMOTE (fixed),MLP,0.46624153624153625
+indian_liver,0.05,Counterfactual SMOTE (fixed),RF,0.37058201058201057
+indian_liver,0.05,Counterfactual SMOTE (fixed),XGBoost,0.4073256373256373
+indian_liver,0.05,K-means SMOTE,DT,0.2704761904761905
+indian_liver,0.05,K-means SMOTE,GNB,0.3871428571428572
+indian_liver,0.05,K-means SMOTE,KNN,0.12
+indian_liver,0.05,K-means SMOTE,LR,0.09142857142857143
+indian_liver,0.05,K-means SMOTE,MLP,0.22857142857142856
+indian_liver,0.05,K-means SMOTE,RF,0.21142857142857144
+indian_liver,0.05,K-means SMOTE,XGBoost,0.21412698412698414
+indian_liver,0.05,None,DT,0.2704761904761905
+indian_liver,0.05,None,GNB,0.3871428571428572
+indian_liver,0.05,None,KNN,0.12
+indian_liver,0.05,None,LR,0.09142857142857143
+indian_liver,0.05,None,MLP,0.22857142857142856
+indian_liver,0.05,None,RF,0.21142857142857144
+indian_liver,0.05,None,XGBoost,0.21412698412698414
+indian_liver,0.05,Random oversampling,DT,0.20638583638583638
+indian_liver,0.05,Random oversampling,GNB,0.37765567765567765
+indian_liver,0.05,Random oversampling,KNN,0.2681340881340882
+indian_liver,0.05,Random oversampling,LR,0.37217174981880863
+indian_liver,0.05,Random oversampling,MLP,0.3546879699820877
+indian_liver,0.05,Random oversampling,RF,0.23238095238095235
+indian_liver,0.05,Random oversampling,XGBoost,0.27476190476190476
+indian_liver,0.05,Random undersampling,DT,0.2542794454464935
+indian_liver,0.05,Random undersampling,GNB,0.38812690577396464
+indian_liver,0.05,Random undersampling,KNN,0.26432651742249264
+indian_liver,0.05,Random undersampling,LR,0.3327136468622537
+indian_liver,0.05,Random undersampling,MLP,0.3275703490409373
+indian_liver,0.05,Random undersampling,RF,0.2790068576971256
+indian_liver,0.05,Random undersampling,XGBoost,0.249765590446705
+indian_liver,0.05,SMOTE,DT,0.2349302549302549
+indian_liver,0.05,SMOTE,GNB,0.42566137566137563
+indian_liver,0.05,SMOTE,KNN,0.29091316091316094
+indian_liver,0.05,SMOTE,LR,0.3449640062952756
+indian_liver,0.05,SMOTE,MLP,0.37245924010629894
+indian_liver,0.05,SMOTE,RF,0.3097354497354497
+indian_liver,0.05,SMOTE,XGBoost,0.32281866281866284
+indian_liver,0.1,ADASYN,DT,0.4065334682517345
+indian_liver,0.1,ADASYN,GNB,0.5353641284755836
+indian_liver,0.1,ADASYN,KNN,0.4382671164923568
+indian_liver,0.1,ADASYN,LR,0.49059183864316896
+indian_liver,0.1,ADASYN,MLP,0.501378725520602
+indian_liver,0.1,ADASYN,RF,0.4494266563616409
+indian_liver,0.1,ADASYN,XGBoost,0.4548788512256004
+indian_liver,0.1,Borderline SMOTE 1,DT,0.465780796704878
+indian_liver,0.1,Borderline SMOTE 1,GNB,0.5463226144340695
+indian_liver,0.1,Borderline SMOTE 1,KNN,0.4740483559903401
+indian_liver,0.1,Borderline SMOTE 1,LR,0.5087712004571608
+indian_liver,0.1,Borderline SMOTE 1,MLP,0.5204110268816151
+indian_liver,0.1,Borderline SMOTE 1,RF,0.4860160101336572
+indian_liver,0.1,Borderline SMOTE 1,XGBoost,0.4976596435675719
+indian_liver,0.1,Borderline SMOTE 2,DT,0.46150769709593237
+indian_liver,0.1,Borderline SMOTE 2,GNB,0.5490586211174446
+indian_liver,0.1,Borderline SMOTE 2,KNN,0.4827792205501184
+indian_liver,0.1,Borderline SMOTE 2,LR,0.5177181687708003
+indian_liver,0.1,Borderline SMOTE 2,MLP,0.5189979561775228
+indian_liver,0.1,Borderline SMOTE 2,RF,0.5271638268851891
+indian_liver,0.1,Borderline SMOTE 2,XGBoost,0.5183259808646805
+indian_liver,0.1,Counterfactual SMOTE,DT,0.5102328576136625
+indian_liver,0.1,Counterfactual SMOTE,GNB,0.5372238872238873
+indian_liver,0.1,Counterfactual SMOTE,KNN,0.539303435356067
+indian_liver,0.1,Counterfactual SMOTE,LR,0.5677851388377704
+indian_liver,0.1,Counterfactual SMOTE,MLP,0.5817034943041134
+indian_liver,0.1,Counterfactual SMOTE,RF,0.5570764094293507
+indian_liver,0.1,Counterfactual SMOTE,XGBoost,0.5297129432887947
+indian_liver,0.1,Counterfactual SMOTE (fixed),DT,0.48772894214662954
+indian_liver,0.1,Counterfactual SMOTE (fixed),GNB,0.5426628926628926
+indian_liver,0.1,Counterfactual SMOTE (fixed),KNN,0.513044805162183
+indian_liver,0.1,Counterfactual SMOTE (fixed),LR,0.5826293967470438
+indian_liver,0.1,Counterfactual SMOTE (fixed),MLP,0.5592229339288163
+indian_liver,0.1,Counterfactual SMOTE (fixed),RF,0.5457122444119348
+indian_liver,0.1,Counterfactual SMOTE (fixed),XGBoost,0.5342211486483932
+indian_liver,0.1,K-means SMOTE,DT,0.3875255749868753
+indian_liver,0.1,K-means SMOTE,GNB,0.5156637806637806
+indian_liver,0.1,K-means SMOTE,KNN,0.3758884035354624
+indian_liver,0.1,K-means SMOTE,LR,0.32821744704097644
+indian_liver,0.1,K-means SMOTE,MLP,0.45823334560176665
+indian_liver,0.1,K-means SMOTE,RF,0.46916139416139413
+indian_liver,0.1,K-means SMOTE,XGBoost,0.431427918486742
+indian_liver,0.1,None,DT,0.3550387131501682
+indian_liver,0.1,None,GNB,0.5094849594849595
+indian_liver,0.1,None,KNN,0.35712879712879714
+indian_liver,0.1,None,LR,0.20942760942760943
+indian_liver,0.1,None,MLP,0.360966440966441
+indian_liver,0.1,None,RF,0.4093503119973709
+indian_liver,0.1,None,XGBoost,0.38347513053395405
+indian_liver,0.1,Random oversampling,DT,0.331066656082136
+indian_liver,0.1,Random oversampling,GNB,0.5137584637584637
+indian_liver,0.1,Random oversampling,KNN,0.43572978112956573
+indian_liver,0.1,Random oversampling,LR,0.5043737351773426
+indian_liver,0.1,Random oversampling,MLP,0.5041487485163016
+indian_liver,0.1,Random oversampling,RF,0.41517186459910915
+indian_liver,0.1,Random oversampling,XGBoost,0.3808976529719564
+indian_liver,0.1,Random undersampling,DT,0.37975277833573684
+indian_liver,0.1,Random undersampling,GNB,0.5181808834440413
+indian_liver,0.1,Random undersampling,KNN,0.4327206856482219
+indian_liver,0.1,Random undersampling,LR,0.4401551450498819
+indian_liver,0.1,Random undersampling,MLP,0.46318367496588914
+indian_liver,0.1,Random undersampling,RF,0.43603317528206476
+indian_liver,0.1,Random undersampling,XGBoost,0.36228365831872145
+indian_liver,0.1,SMOTE,DT,0.40548577736557273
+indian_liver,0.1,SMOTE,GNB,0.5304801235915787
+indian_liver,0.1,SMOTE,KNN,0.4431115710540936
+indian_liver,0.1,SMOTE,LR,0.5080500046908716
+indian_liver,0.1,SMOTE,MLP,0.4987454296914969
+indian_liver,0.1,SMOTE,RF,0.4580369412722354
+indian_liver,0.1,SMOTE,XGBoost,0.45304278452885266
+indian_liver,0.15,ADASYN,DT,0.4487779353458132
+indian_liver,0.15,ADASYN,GNB,0.5632400448795657
+indian_liver,0.15,ADASYN,KNN,0.4613734260575759
+indian_liver,0.15,ADASYN,LR,0.5533453815926396
+indian_liver,0.15,ADASYN,MLP,0.5582446508571833
+indian_liver,0.15,ADASYN,RF,0.5556739095579675
+indian_liver,0.15,ADASYN,XGBoost,0.5267744884762182
+indian_liver,0.15,Borderline SMOTE 1,DT,0.4795252106735805
+indian_liver,0.15,Borderline SMOTE 1,GNB,0.5683194099589307
+indian_liver,0.15,Borderline SMOTE 1,KNN,0.477823695628482
+indian_liver,0.15,Borderline SMOTE 1,LR,0.5400433189137551
+indian_liver,0.15,Borderline SMOTE 1,MLP,0.5607469380140769
+indian_liver,0.15,Borderline SMOTE 1,RF,0.5727271974853974
+indian_liver,0.15,Borderline SMOTE 1,XGBoost,0.5605197858702685
+indian_liver,0.15,Borderline SMOTE 2,DT,0.5164336922762245
+indian_liver,0.15,Borderline SMOTE 2,GNB,0.5807292223687431
+indian_liver,0.15,Borderline SMOTE 2,KNN,0.49305218439570453
+indian_liver,0.15,Borderline SMOTE 2,LR,0.5491369391490566
+indian_liver,0.15,Borderline SMOTE 2,MLP,0.5690020815714081
+indian_liver,0.15,Borderline SMOTE 2,RF,0.5838204304382794
+indian_liver,0.15,Borderline SMOTE 2,XGBoost,0.5355374754917089
+indian_liver,0.15,Counterfactual SMOTE,DT,0.5454843123067076
+indian_liver,0.15,Counterfactual SMOTE,GNB,0.5710803527198735
+indian_liver,0.15,Counterfactual SMOTE,KNN,0.5346281888470794
+indian_liver,0.15,Counterfactual SMOTE,LR,0.599186096405103
+indian_liver,0.15,Counterfactual SMOTE,MLP,0.5862476400340626
+indian_liver,0.15,Counterfactual SMOTE,RF,0.6046970242183595
+indian_liver,0.15,Counterfactual SMOTE,XGBoost,0.5939980225504963
+indian_liver,0.15,Counterfactual SMOTE (fixed),DT,0.545415496326436
+indian_liver,0.15,Counterfactual SMOTE (fixed),GNB,0.5646157062552271
+indian_liver,0.15,Counterfactual SMOTE (fixed),KNN,0.5283093489770028
+indian_liver,0.15,Counterfactual SMOTE (fixed),LR,0.5905364768999398
+indian_liver,0.15,Counterfactual SMOTE (fixed),MLP,0.5851979953759466
+indian_liver,0.15,Counterfactual SMOTE (fixed),RF,0.6110211238037325
+indian_liver,0.15,Counterfactual SMOTE (fixed),XGBoost,0.5982438334612248
+indian_liver,0.15,K-means SMOTE,DT,0.49249672412261897
+indian_liver,0.15,K-means SMOTE,GNB,0.5679684434160137
+indian_liver,0.15,K-means SMOTE,KNN,0.4265501096770447
+indian_liver,0.15,K-means SMOTE,LR,0.5134425934116336
+indian_liver,0.15,K-means SMOTE,MLP,0.5636203074720828
+indian_liver,0.15,K-means SMOTE,RF,0.5399495134021989
+indian_liver,0.15,K-means SMOTE,XGBoost,0.5591297516225052
+indian_liver,0.15,None,DT,0.4362910762401017
+indian_liver,0.15,None,GNB,0.5432399555296311
+indian_liver,0.15,None,KNN,0.39771687090572544
+indian_liver,0.15,None,LR,0.28179702650290883
+indian_liver,0.15,None,MLP,0.4703130374957
+indian_liver,0.15,None,RF,0.5185540946841256
+indian_liver,0.15,None,XGBoost,0.5087462030864014
+indian_liver,0.15,Random oversampling,DT,0.4037270326946541
+indian_liver,0.15,Random oversampling,GNB,0.5474354114897929
+indian_liver,0.15,Random oversampling,KNN,0.42255646439554484
+indian_liver,0.15,Random oversampling,LR,0.5419492634843156
+indian_liver,0.15,Random oversampling,MLP,0.5425912099596311
+indian_liver,0.15,Random oversampling,RF,0.5302193362193363
+indian_liver,0.15,Random oversampling,XGBoost,0.5048372604684449
+indian_liver,0.15,Random undersampling,DT,0.45208046080436975
+indian_liver,0.15,Random undersampling,GNB,0.5610079572591351
+indian_liver,0.15,Random undersampling,KNN,0.4681956464480992
+indian_liver,0.15,Random undersampling,LR,0.5007056677342586
+indian_liver,0.15,Random undersampling,MLP,0.5354828263523915
+indian_liver,0.15,Random undersampling,RF,0.5290979838011726
+indian_liver,0.15,Random undersampling,XGBoost,0.4876519857348447
+indian_liver,0.15,SMOTE,DT,0.482605800412252
+indian_liver,0.15,SMOTE,GNB,0.5514074330469537
+indian_liver,0.15,SMOTE,KNN,0.4714380877419358
+indian_liver,0.15,SMOTE,LR,0.5687304753754029
+indian_liver,0.15,SMOTE,MLP,0.5573399555339762
+indian_liver,0.15,SMOTE,RF,0.5511910896121422
+indian_liver,0.15,SMOTE,XGBoost,0.5345600232037014
+parkinsons,0.05,ADASYN,DT,0.3721595071595072
+parkinsons,0.05,ADASYN,GNB,0.3356843615047949
+parkinsons,0.05,ADASYN,KNN,0.4429646602232415
+parkinsons,0.05,ADASYN,LR,0.4788267288267289
+parkinsons,0.05,ADASYN,MLP,0.44280682280682276
+parkinsons,0.05,ADASYN,RF,0.41968253968253966
+parkinsons,0.05,ADASYN,XGBoost,0.4639393939393939
+parkinsons,0.05,Borderline SMOTE 1,DT,0.4568986568986569
+parkinsons,0.05,Borderline SMOTE 1,GNB,0.341500403850249
+parkinsons,0.05,Borderline SMOTE 1,KNN,0.47168633468404636
+parkinsons,0.05,Borderline SMOTE 1,LR,0.5114818514818514
+parkinsons,0.05,Borderline SMOTE 1,MLP,0.45371332371332374
+parkinsons,0.05,Borderline SMOTE 1,RF,0.4541414141414141
+parkinsons,0.05,Borderline SMOTE 1,XGBoost,0.4752343952343952
+parkinsons,0.05,Borderline SMOTE 2,DT,0.44166278166278167
+parkinsons,0.05,Borderline SMOTE 2,GNB,0.3616691320375531
+parkinsons,0.05,Borderline SMOTE 2,KNN,0.48585415272721777
+parkinsons,0.05,Borderline SMOTE 2,LR,0.5092951492951493
+parkinsons,0.05,Borderline SMOTE 2,MLP,0.47459336959336956
+parkinsons,0.05,Borderline SMOTE 2,RF,0.4594468494468495
+parkinsons,0.05,Borderline SMOTE 2,XGBoost,0.5098797498797499
+parkinsons,0.05,Counterfactual SMOTE,DT,0.5006251448356712
+parkinsons,0.05,Counterfactual SMOTE,GNB,0.39518075776145506
+parkinsons,0.05,Counterfactual SMOTE,KNN,0.5707745522451405
+parkinsons,0.05,Counterfactual SMOTE,LR,0.5336882833941657
+parkinsons,0.05,Counterfactual SMOTE,MLP,0.5513603390073978
+parkinsons,0.05,Counterfactual SMOTE,RF,0.5519961519961519
+parkinsons,0.05,Counterfactual SMOTE,XGBoost,0.5721981721981723
+parkinsons,0.05,Counterfactual SMOTE (fixed),DT,0.4919795558185651
+parkinsons,0.05,Counterfactual SMOTE (fixed),GNB,0.38908051162230733
+parkinsons,0.05,Counterfactual SMOTE (fixed),KNN,0.5518941964244158
+parkinsons,0.05,Counterfactual SMOTE (fixed),LR,0.5365593953465807
+parkinsons,0.05,Counterfactual SMOTE (fixed),MLP,0.567587760823055
+parkinsons,0.05,Counterfactual SMOTE (fixed),RF,0.5841724941724942
+parkinsons,0.05,Counterfactual SMOTE (fixed),XGBoost,0.5823387723387724
+parkinsons,0.05,K-means SMOTE,DT,0.38788690612220017
+parkinsons,0.05,K-means SMOTE,GNB,0.3342009647272805
+parkinsons,0.05,K-means SMOTE,KNN,0.3213852813852814
+parkinsons,0.05,K-means SMOTE,LR,0.4728090428090428
+parkinsons,0.05,K-means SMOTE,MLP,0.45676915676915675
+parkinsons,0.05,K-means SMOTE,RF,0.2785714285714285
+parkinsons,0.05,K-means SMOTE,XGBoost,0.4774603174603174
+parkinsons,0.05,None,DT,0.33326321826321825
+parkinsons,0.05,None,GNB,0.3342009647272805
+parkinsons,0.05,None,KNN,0.22936507936507936
+parkinsons,0.05,None,LR,0.4330687830687831
+parkinsons,0.05,None,MLP,0.42984607984607986
+parkinsons,0.05,None,RF,0.23730158730158726
+parkinsons,0.05,None,XGBoost,0.4032275132275132
+parkinsons,0.05,Random oversampling,DT,0.32304732304732303
+parkinsons,0.05,Random oversampling,GNB,0.35097068818121446
+parkinsons,0.05,Random oversampling,KNN,0.4398575498575498
+parkinsons,0.05,Random oversampling,LR,0.4798627298627299
+parkinsons,0.05,Random oversampling,MLP,0.46532874532874535
+parkinsons,0.05,Random oversampling,RF,0.33698412698412694
+parkinsons,0.05,Random oversampling,XGBoost,0.47668109668109665
+parkinsons,0.05,Random undersampling,DT,0.35262917667283905
+parkinsons,0.05,Random undersampling,GNB,0.33184708911186234
+parkinsons,0.05,Random undersampling,KNN,0.36119156612520453
+parkinsons,0.05,Random undersampling,LR,0.4062289470150555
+parkinsons,0.05,Random undersampling,MLP,0.4034178651697833
+parkinsons,0.05,Random undersampling,RF,0.38346259443764713
+parkinsons,0.05,Random undersampling,XGBoost,0.3827227415832432
+parkinsons,0.05,SMOTE,DT,0.3556251156251156
+parkinsons,0.05,SMOTE,GNB,0.3410689267159856
+parkinsons,0.05,SMOTE,KNN,0.45398432789198706
+parkinsons,0.05,SMOTE,LR,0.4871524771524771
+parkinsons,0.05,SMOTE,MLP,0.4568783068783069
+parkinsons,0.05,SMOTE,RF,0.4485329485329485
+parkinsons,0.05,SMOTE,XGBoost,0.4183560883560884
+parkinsons,0.1,ADASYN,DT,0.4786588018362657
+parkinsons,0.1,ADASYN,GNB,0.4930946910118212
+parkinsons,0.1,ADASYN,KNN,0.5525248895682332
+parkinsons,0.1,ADASYN,LR,0.6156816112510897
+parkinsons,0.1,ADASYN,MLP,0.640199176025263
+parkinsons,0.1,ADASYN,RF,0.5818397259002993
+parkinsons,0.1,ADASYN,XGBoost,0.610893270014013
+parkinsons,0.1,Borderline SMOTE 1,DT,0.5275442962552039
+parkinsons,0.1,Borderline SMOTE 1,GNB,0.5075768342583323
+parkinsons,0.1,Borderline SMOTE 1,KNN,0.5848948961899626
+parkinsons,0.1,Borderline SMOTE 1,LR,0.6331716521464805
+parkinsons,0.1,Borderline SMOTE 1,MLP,0.6501982976765586
+parkinsons,0.1,Borderline SMOTE 1,RF,0.5892887455793634
+parkinsons,0.1,Borderline SMOTE 1,XGBoost,0.6465165989193449
+parkinsons,0.1,Borderline SMOTE 2,DT,0.5617518815919939
+parkinsons,0.1,Borderline SMOTE 2,GNB,0.5111229939237839
+parkinsons,0.1,Borderline SMOTE 2,KNN,0.5947850543102158
+parkinsons,0.1,Borderline SMOTE 2,LR,0.6278413531918359
+parkinsons,0.1,Borderline SMOTE 2,MLP,0.6542091488758155
+parkinsons,0.1,Borderline SMOTE 2,RF,0.605042584955763
+parkinsons,0.1,Borderline SMOTE 2,XGBoost,0.6585201804273012
+parkinsons,0.1,Counterfactual SMOTE,DT,0.5952276183290676
+parkinsons,0.1,Counterfactual SMOTE,GNB,0.5180385187922018
+parkinsons,0.1,Counterfactual SMOTE,KNN,0.6507733086318793
+parkinsons,0.1,Counterfactual SMOTE,LR,0.6431368328256201
+parkinsons,0.1,Counterfactual SMOTE,MLP,0.6971421722938304
+parkinsons,0.1,Counterfactual SMOTE,RF,0.668195011541357
+parkinsons,0.1,Counterfactual SMOTE,XGBoost,0.6583550076900461
+parkinsons,0.1,Counterfactual SMOTE (fixed),DT,0.6032622059449698
+parkinsons,0.1,Counterfactual SMOTE (fixed),GNB,0.5143786957246357
+parkinsons,0.1,Counterfactual SMOTE (fixed),KNN,0.6403466515836441
+parkinsons,0.1,Counterfactual SMOTE (fixed),LR,0.627910541385157
+parkinsons,0.1,Counterfactual SMOTE (fixed),MLP,0.6987496218220857
+parkinsons,0.1,Counterfactual SMOTE (fixed),RF,0.6664628439268364
+parkinsons,0.1,Counterfactual SMOTE (fixed),XGBoost,0.6635643907101708
+parkinsons,0.1,K-means SMOTE,DT,0.5717660576562179
+parkinsons,0.1,K-means SMOTE,GNB,0.5185960663525618
+parkinsons,0.1,K-means SMOTE,KNN,0.5552201105261739
+parkinsons,0.1,K-means SMOTE,LR,0.6131069106714101
+parkinsons,0.1,K-means SMOTE,MLP,0.6263787358883154
+parkinsons,0.1,K-means SMOTE,RF,0.60218610251118
+parkinsons,0.1,K-means SMOTE,XGBoost,0.6303820826576244
+parkinsons,0.1,None,DT,0.5093544386511587
+parkinsons,0.1,None,GNB,0.5133623308629865
+parkinsons,0.1,None,KNN,0.4659654987828363
+parkinsons,0.1,None,LR,0.58754647345844
+parkinsons,0.1,None,MLP,0.572017471966321
+parkinsons,0.1,None,RF,0.5030072919856202
+parkinsons,0.1,None,XGBoost,0.5615823873409013
+parkinsons,0.1,Random oversampling,DT,0.43028543610228004
+parkinsons,0.1,Random oversampling,GNB,0.5136413100303274
+parkinsons,0.1,Random oversampling,KNN,0.5669629464780352
+parkinsons,0.1,Random oversampling,LR,0.6154250154738331
+parkinsons,0.1,Random oversampling,MLP,0.6258882134335987
+parkinsons,0.1,Random oversampling,RF,0.5873023992205578
+parkinsons,0.1,Random oversampling,XGBoost,0.5629293376042602
+parkinsons,0.1,Random undersampling,DT,0.4483643805466419
+parkinsons,0.1,Random undersampling,GNB,0.5055257205322637
+parkinsons,0.1,Random undersampling,KNN,0.5179051069701466
+parkinsons,0.1,Random undersampling,LR,0.5716234019029827
+parkinsons,0.1,Random undersampling,MLP,0.540660882152027
+parkinsons,0.1,Random undersampling,RF,0.5594958499508488
+parkinsons,0.1,Random undersampling,XGBoost,0.5313273364326386
+parkinsons,0.1,SMOTE,DT,0.5297176575437444
+parkinsons,0.1,SMOTE,GNB,0.49743365666374667
+parkinsons,0.1,SMOTE,KNN,0.5647376096260047
+parkinsons,0.1,SMOTE,LR,0.6232672719449733
+parkinsons,0.1,SMOTE,MLP,0.6322290127309197
+parkinsons,0.1,SMOTE,RF,0.6191321583298969
+parkinsons,0.1,SMOTE,XGBoost,0.6192533764077713
+parkinsons,0.15,ADASYN,DT,0.5726463589765297
+parkinsons,0.15,ADASYN,GNB,0.5911564778742683
+parkinsons,0.15,ADASYN,KNN,0.6394728021783126
+parkinsons,0.15,ADASYN,LR,0.6656304279247901
+parkinsons,0.15,ADASYN,MLP,0.6601206415163271
+parkinsons,0.15,ADASYN,RF,0.691939057978956
+parkinsons,0.15,ADASYN,XGBoost,0.7023003061442314
+parkinsons,0.15,Borderline SMOTE 1,DT,0.6249588547995905
+parkinsons,0.15,Borderline SMOTE 1,GNB,0.5977704356220909
+parkinsons,0.15,Borderline SMOTE 1,KNN,0.6665710089594702
+parkinsons,0.15,Borderline SMOTE 1,LR,0.6851280425667171
+parkinsons,0.15,Borderline SMOTE 1,MLP,0.6668058248605262
+parkinsons,0.15,Borderline SMOTE 1,RF,0.7041008034528614
+parkinsons,0.15,Borderline SMOTE 1,XGBoost,0.7278615482776969
+parkinsons,0.15,Borderline SMOTE 2,DT,0.6296659570708307
+parkinsons,0.15,Borderline SMOTE 2,GNB,0.6049444351973375
+parkinsons,0.15,Borderline SMOTE 2,KNN,0.6731846438506507
+parkinsons,0.15,Borderline SMOTE 2,LR,0.6727184264878384
+parkinsons,0.15,Borderline SMOTE 2,MLP,0.6742407058174061
+parkinsons,0.15,Borderline SMOTE 2,RF,0.7085066447595074
+parkinsons,0.15,Borderline SMOTE 2,XGBoost,0.7355638698066014
+parkinsons,0.15,Counterfactual SMOTE,DT,0.6297742283500797
+parkinsons,0.15,Counterfactual SMOTE,GNB,0.6197237869002867
+parkinsons,0.15,Counterfactual SMOTE,KNN,0.7194771690977322
+parkinsons,0.15,Counterfactual SMOTE,LR,0.6951894321553764
+parkinsons,0.15,Counterfactual SMOTE,MLP,0.710391481052585
+parkinsons,0.15,Counterfactual SMOTE,RF,0.7300584791643119
+parkinsons,0.15,Counterfactual SMOTE,XGBoost,0.7509927866381977
+parkinsons,0.15,Counterfactual SMOTE (fixed),DT,0.6257232373408844
+parkinsons,0.15,Counterfactual SMOTE (fixed),GNB,0.6151727479066609
+parkinsons,0.15,Counterfactual SMOTE (fixed),KNN,0.7111680020106997
+parkinsons,0.15,Counterfactual SMOTE (fixed),LR,0.6863751966988291
+parkinsons,0.15,Counterfactual SMOTE (fixed),MLP,0.705784704333016
+parkinsons,0.15,Counterfactual SMOTE (fixed),RF,0.713931294943726
+parkinsons,0.15,Counterfactual SMOTE (fixed),XGBoost,0.7464789822426332
+parkinsons,0.15,K-means SMOTE,DT,0.6662527111157942
+parkinsons,0.15,K-means SMOTE,GNB,0.6168663489517653
+parkinsons,0.15,K-means SMOTE,KNN,0.6622288544532485
+parkinsons,0.15,K-means SMOTE,LR,0.6877736017422816
+parkinsons,0.15,K-means SMOTE,MLP,0.6852652169160708
+parkinsons,0.15,K-means SMOTE,RF,0.7089012634802074
+parkinsons,0.15,K-means SMOTE,XGBoost,0.7347100934020495
+parkinsons,0.15,None,DT,0.5627169375939353
+parkinsons,0.15,None,GNB,0.6008878649245007
+parkinsons,0.15,None,KNN,0.5835914284839016
+parkinsons,0.15,None,LR,0.6434053060193216
+parkinsons,0.15,None,MLP,0.6453165740373422
+parkinsons,0.15,None,RF,0.6752089527358344
+parkinsons,0.15,None,XGBoost,0.6772068153560026
+parkinsons,0.15,Random oversampling,DT,0.5370253526526837
+parkinsons,0.15,Random oversampling,GNB,0.5843531688250746
+parkinsons,0.15,Random oversampling,KNN,0.6458489146886833
+parkinsons,0.15,Random oversampling,LR,0.6664955993880891
+parkinsons,0.15,Random oversampling,MLP,0.6587887664026183
+parkinsons,0.15,Random oversampling,RF,0.7109822186080992
+parkinsons,0.15,Random oversampling,XGBoost,0.6743687538515125
+parkinsons,0.15,Random undersampling,DT,0.5717915576970224
+parkinsons,0.15,Random undersampling,GNB,0.5801296639009296
+parkinsons,0.15,Random undersampling,KNN,0.6205178093950043
+parkinsons,0.15,Random undersampling,LR,0.6459609836358928
+parkinsons,0.15,Random undersampling,MLP,0.624871492571843
+parkinsons,0.15,Random undersampling,RF,0.6348097325711111
+parkinsons,0.15,Random undersampling,XGBoost,0.6490380895700044
+parkinsons,0.15,SMOTE,DT,0.5383243921198373
+parkinsons,0.15,SMOTE,GNB,0.5898595898027925
+parkinsons,0.15,SMOTE,KNN,0.6656145794757456
+parkinsons,0.15,SMOTE,LR,0.6748976026624395
+parkinsons,0.15,SMOTE,MLP,0.6670210446825159
+parkinsons,0.15,SMOTE,RF,0.7088102963776589
+parkinsons,0.15,SMOTE,XGBoost,0.7194877441931576
+pima,0.1,ADASYN,DT,0.16511183518923456
+pima,0.1,ADASYN,GNB,0.1702641407060748
+pima,0.1,ADASYN,KNN,0.15681795153349698
+pima,0.1,ADASYN,LR,0.17044714351220688
+pima,0.1,ADASYN,MLP,0.19840503238074614
+pima,0.1,ADASYN,RF,0.16832130832130832
+pima,0.1,ADASYN,XGBoost,0.18539497539497538
+pima,0.1,Borderline SMOTE 1,DT,0.1893310038201679
+pima,0.1,Borderline SMOTE 1,GNB,0.19634417437172133
+pima,0.1,Borderline SMOTE 1,KNN,0.19025936433259086
+pima,0.1,Borderline SMOTE 1,LR,0.2059141800314018
+pima,0.1,Borderline SMOTE 1,MLP,0.18317969619724006
+pima,0.1,Borderline SMOTE 1,RF,0.13142524142524142
+pima,0.1,Borderline SMOTE 1,XGBoost,0.18235449735449735
+pima,0.1,Borderline SMOTE 2,DT,0.15597448492589158
+pima,0.1,Borderline SMOTE 2,GNB,0.1837269704240441
+pima,0.1,Borderline SMOTE 2,KNN,0.18492672045303626
+pima,0.1,Borderline SMOTE 2,LR,0.19754263845963774
+pima,0.1,Borderline SMOTE 2,MLP,0.20979689364510112
+pima,0.1,Borderline SMOTE 2,RF,0.09487253487253489
+pima,0.1,Borderline SMOTE 2,XGBoost,0.1445021645021645
+pima,0.1,Counterfactual SMOTE,DT,0.21785175837807416
+pima,0.1,Counterfactual SMOTE,GNB,0.23588767957189014
+pima,0.1,Counterfactual SMOTE,KNN,0.1403376666275217
+pima,0.1,Counterfactual SMOTE,LR,0.18749369538843222
+pima,0.1,Counterfactual SMOTE,MLP,0.21543026117329522
+pima,0.1,Counterfactual SMOTE,RF,0.17789321789321788
+pima,0.1,Counterfactual SMOTE,XGBoost,0.17143819143819142
+pima,0.1,Counterfactual SMOTE (fixed),DT,0.2212360639016986
+pima,0.1,Counterfactual SMOTE (fixed),GNB,0.23496355496355495
+pima,0.1,Counterfactual SMOTE (fixed),KNN,0.15089831713487625
+pima,0.1,Counterfactual SMOTE (fixed),LR,0.21743710031312669
+pima,0.1,Counterfactual SMOTE (fixed),MLP,0.19333077540507881
+pima,0.1,Counterfactual SMOTE (fixed),RF,0.20441082882259354
+pima,0.1,Counterfactual SMOTE (fixed),XGBoost,0.1868260898601456
+pima,0.1,K-means SMOTE,DT,0.10249158249158248
+pima,0.1,K-means SMOTE,GNB,0.15934065934065936
+pima,0.1,K-means SMOTE,KNN,0.0
+pima,0.1,K-means SMOTE,LR,0.0
+pima,0.1,K-means SMOTE,MLP,0.0
+pima,0.1,K-means SMOTE,RF,0.0
+pima,0.1,K-means SMOTE,XGBoost,0.02666666666666667
+pima,0.1,None,DT,0.10249158249158248
+pima,0.1,None,GNB,0.15934065934065936
+pima,0.1,None,KNN,0.0
+pima,0.1,None,LR,0.0
+pima,0.1,None,MLP,0.0
+pima,0.1,None,RF,0.0
+pima,0.1,None,XGBoost,0.02666666666666667
+pima,0.1,Random oversampling,DT,0.121003441003441
+pima,0.1,Random oversampling,GNB,0.18151907291713817
+pima,0.1,Random oversampling,KNN,0.13712885343320125
+pima,0.1,Random oversampling,LR,0.1741923143869694
+pima,0.1,Random oversampling,MLP,0.18379506189851016
+pima,0.1,Random oversampling,RF,0.028148148148148144
+pima,0.1,Random oversampling,XGBoost,0.1266233766233766
+pima,0.1,Random undersampling,DT,0.13950908811837834
+pima,0.1,Random undersampling,GNB,0.1473436025326743
+pima,0.1,Random undersampling,KNN,0.15042446543066126
+pima,0.1,Random undersampling,LR,0.1692827472421559
+pima,0.1,Random undersampling,MLP,0.15279525932340707
+pima,0.1,Random undersampling,RF,0.16828813682484747
+pima,0.1,Random undersampling,XGBoost,0.16813883692632867
+pima,0.1,SMOTE,DT,0.14640740523093465
+pima,0.1,SMOTE,GNB,0.17647114780136852
+pima,0.1,SMOTE,KNN,0.16366700710154616
+pima,0.1,SMOTE,LR,0.18076571824046817
+pima,0.1,SMOTE,MLP,0.19998714231531567
+pima,0.1,SMOTE,RF,0.12497354497354496
+pima,0.1,SMOTE,XGBoost,0.157969252969253
+pima,0.25,ADASYN,DT,0.32319229904604496
+pima,0.25,ADASYN,GNB,0.37252616512511527
+pima,0.25,ADASYN,KNN,0.3346043287347531
+pima,0.25,ADASYN,LR,0.3718436517121632
+pima,0.25,ADASYN,MLP,0.37952662204262416
+pima,0.25,ADASYN,RF,0.3090923268426049
+pima,0.25,ADASYN,XGBoost,0.3251260861943756
+pima,0.25,Borderline SMOTE 1,DT,0.34303932843140866
+pima,0.25,Borderline SMOTE 1,GNB,0.39834271550519446
+pima,0.25,Borderline SMOTE 1,KNN,0.3262634697932682
+pima,0.25,Borderline SMOTE 1,LR,0.39138157920889816
+pima,0.25,Borderline SMOTE 1,MLP,0.392271195085477
+pima,0.25,Borderline SMOTE 1,RF,0.3193122176193141
+pima,0.25,Borderline SMOTE 1,XGBoost,0.34143032350448
+pima,0.25,Borderline SMOTE 2,DT,0.35614814034765585
+pima,0.25,Borderline SMOTE 2,GNB,0.39506677107346455
+pima,0.25,Borderline SMOTE 2,KNN,0.32677475570893094
+pima,0.25,Borderline SMOTE 2,LR,0.39994751278870794
+pima,0.25,Borderline SMOTE 2,MLP,0.3961059064637787
+pima,0.25,Borderline SMOTE 2,RF,0.2992526925570404
+pima,0.25,Borderline SMOTE 2,XGBoost,0.33423087176210614
+pima,0.25,Counterfactual SMOTE,DT,0.3696606907506055
+pima,0.25,Counterfactual SMOTE,GNB,0.4225859110575789
+pima,0.25,Counterfactual SMOTE,KNN,0.3307873343920864
+pima,0.25,Counterfactual SMOTE,LR,0.4291980115967553
+pima,0.25,Counterfactual SMOTE,MLP,0.4161766143542365
+pima,0.25,Counterfactual SMOTE,RF,0.3496753174181542
+pima,0.25,Counterfactual SMOTE,XGBoost,0.3465918007798116
+pima,0.25,Counterfactual SMOTE (fixed),DT,0.3692288251591158
+pima,0.25,Counterfactual SMOTE (fixed),GNB,0.4203832432746913
+pima,0.25,Counterfactual SMOTE (fixed),KNN,0.3389362460196737
+pima,0.25,Counterfactual SMOTE (fixed),LR,0.42117080033424986
+pima,0.25,Counterfactual SMOTE (fixed),MLP,0.41946382452398634
+pima,0.25,Counterfactual SMOTE (fixed),RF,0.36567698145043886
+pima,0.25,Counterfactual SMOTE (fixed),XGBoost,0.3622168808889239
+pima,0.25,K-means SMOTE,DT,0.28875855297609315
+pima,0.25,K-means SMOTE,GNB,0.36450432368798186
+pima,0.25,K-means SMOTE,KNN,0.1548485955647081
+pima,0.25,K-means SMOTE,LR,0.31035152438026
+pima,0.25,K-means SMOTE,MLP,0.24927685807863456
+pima,0.25,K-means SMOTE,RF,0.18092117548773898
+pima,0.25,K-means SMOTE,XGBoost,0.25868978550900745
+pima,0.25,None,DT,0.26407352213642615
+pima,0.25,None,GNB,0.3360309099879841
+pima,0.25,None,KNN,0.08741428735236785
+pima,0.25,None,LR,0.008888888888888889
+pima,0.25,None,MLP,0.0273015873015873
+pima,0.25,None,RF,0.17941323897980244
+pima,0.25,None,XGBoost,0.20072453861927544
+pima,0.25,Random oversampling,DT,0.3002452622650346
+pima,0.25,Random oversampling,GNB,0.38615900688082166
+pima,0.25,Random oversampling,KNN,0.32235039667192406
+pima,0.25,Random oversampling,LR,0.37856639521774404
+pima,0.25,Random oversampling,MLP,0.391403608139879
+pima,0.25,Random oversampling,RF,0.2515373102989202
+pima,0.25,Random oversampling,XGBoost,0.2576585018834963
+pima,0.25,Random undersampling,DT,0.2931539221052443
+pima,0.25,Random undersampling,GNB,0.3807306610591568
+pima,0.25,Random undersampling,KNN,0.32687553923517876
+pima,0.25,Random undersampling,LR,0.3748427574007059
+pima,0.25,Random undersampling,MLP,0.35215024602507317
+pima,0.25,Random undersampling,RF,0.3785980726206486
+pima,0.25,Random undersampling,XGBoost,0.35133133414746326
+pima,0.25,SMOTE,DT,0.338565200612992
+pima,0.25,SMOTE,GNB,0.37788508337145066
+pima,0.25,SMOTE,KNN,0.33200399728925567
+pima,0.25,SMOTE,LR,0.37496523707478185
+pima,0.25,SMOTE,MLP,0.3899678957653523
+pima,0.25,SMOTE,RF,0.34269025653619645
+pima,0.25,SMOTE,XGBoost,0.3395192408520616
+pima,0.5,ADASYN,DT,0.436259594038529
+pima,0.5,ADASYN,GNB,0.5382433255301019
+pima,0.5,ADASYN,KNN,0.48189115371558394
+pima,0.5,ADASYN,LR,0.5425281008570887
+pima,0.5,ADASYN,MLP,0.5433777623086636
+pima,0.5,ADASYN,RF,0.507974116497363
+pima,0.5,ADASYN,XGBoost,0.5145975186054311
+pima,0.5,Borderline SMOTE 1,DT,0.47546960319084336
+pima,0.5,Borderline SMOTE 1,GNB,0.5429886578633141
+pima,0.5,Borderline SMOTE 1,KNN,0.49219771229557363
+pima,0.5,Borderline SMOTE 1,LR,0.5459350621542559
+pima,0.5,Borderline SMOTE 1,MLP,0.5562033741711284
+pima,0.5,Borderline SMOTE 1,RF,0.5223913787377378
+pima,0.5,Borderline SMOTE 1,XGBoost,0.5427650429610916
+pima,0.5,Borderline SMOTE 2,DT,0.47837075125372214
+pima,0.5,Borderline SMOTE 2,GNB,0.5449797282362302
+pima,0.5,Borderline SMOTE 2,KNN,0.4941488428478638
+pima,0.5,Borderline SMOTE 2,LR,0.5467546299489717
+pima,0.5,Borderline SMOTE 2,MLP,0.5466637137117994
+pima,0.5,Borderline SMOTE 2,RF,0.5191146833659052
+pima,0.5,Borderline SMOTE 2,XGBoost,0.5145500860870634
+pima,0.5,Counterfactual SMOTE,DT,0.49611954003295305
+pima,0.5,Counterfactual SMOTE,GNB,0.5541968526503099
+pima,0.5,Counterfactual SMOTE,KNN,0.5189464628747584
+pima,0.5,Counterfactual SMOTE,LR,0.552823046812407
+pima,0.5,Counterfactual SMOTE,MLP,0.5653066473838353
+pima,0.5,Counterfactual SMOTE,RF,0.5390757007465016
+pima,0.5,Counterfactual SMOTE,XGBoost,0.5302437390994253
+pima,0.5,Counterfactual SMOTE (fixed),DT,0.4947959947304554
+pima,0.5,Counterfactual SMOTE (fixed),GNB,0.5559953824114291
+pima,0.5,Counterfactual SMOTE (fixed),KNN,0.5187588245475209
+pima,0.5,Counterfactual SMOTE (fixed),LR,0.5471846050519013
+pima,0.5,Counterfactual SMOTE (fixed),MLP,0.5581712878162152
+pima,0.5,Counterfactual SMOTE (fixed),RF,0.5460861724658305
+pima,0.5,Counterfactual SMOTE (fixed),XGBoost,0.5374840378605946
+pima,0.5,K-means SMOTE,DT,0.47298744732097947
+pima,0.5,K-means SMOTE,GNB,0.554863549111371
+pima,0.5,K-means SMOTE,KNN,0.4710348901473726
+pima,0.5,K-means SMOTE,LR,0.5494888651931662
+pima,0.5,K-means SMOTE,MLP,0.5431099190712211
+pima,0.5,K-means SMOTE,RF,0.48678203321952446
+pima,0.5,K-means SMOTE,XGBoost,0.510715285675814
+pima,0.5,None,DT,0.3987459755036167
+pima,0.5,None,GNB,0.49692256269617857
+pima,0.5,None,KNN,0.3755312090195811
+pima,0.5,None,LR,0.2923660003223898
+pima,0.5,None,MLP,0.4114073152930347
+pima,0.5,None,RF,0.4175501770446159
+pima,0.5,None,XGBoost,0.4538021034135103
+pima,0.5,Random oversampling,DT,0.4073273313862095
+pima,0.5,Random oversampling,GNB,0.528002185156369
+pima,0.5,Random oversampling,KNN,0.45955929313266103
+pima,0.5,Random oversampling,LR,0.5354674193327958
+pima,0.5,Random oversampling,MLP,0.535490701586323
+pima,0.5,Random oversampling,RF,0.4847267837069577
+pima,0.5,Random oversampling,XGBoost,0.4743164826167279
+pima,0.5,Random undersampling,DT,0.4432552761337427
+pima,0.5,Random undersampling,GNB,0.5308980187728621
+pima,0.5,Random undersampling,KNN,0.4810948320015494
+pima,0.5,Random undersampling,LR,0.538054385358783
+pima,0.5,Random undersampling,MLP,0.5034245153677085
+pima,0.5,Random undersampling,RF,0.5331585886249876
+pima,0.5,Random undersampling,XGBoost,0.4959701940172064
+pima,0.5,SMOTE,DT,0.46012452702635787
+pima,0.5,SMOTE,GNB,0.5447973494377861
+pima,0.5,SMOTE,KNN,0.4777070047634349
+pima,0.5,SMOTE,LR,0.5426373780806545
+pima,0.5,SMOTE,MLP,0.5447514766166522
+pima,0.5,SMOTE,RF,0.5131038188692069
+pima,0.5,SMOTE,XGBoost,0.5163535220270629
